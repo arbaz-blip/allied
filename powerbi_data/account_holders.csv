@@ -1,0 +1,21 @@
+account_id,full_name,cnic,phone,email,city,account_type,branch,balance,status,opened_date,risk_rating
+ABL-10000,Ahsan Raza,35201-1234567-1,0326-9627566,ahsan.raza@email.com,Karachi,Fixed Deposit,DHA,371552.7,Frozen,2019-12-05,High
+ABL-10001,Fatima Malik,35202-2345678-2,0341-7017353,fatima.malik@email.com,Lahore,Fixed Deposit,Blue Area,224499.46,Active,2022-11-25,Medium
+ABL-10002,Bilal Chaudhry,35203-3456789-3,0317-5923988,bilal.chaudhry@email.com,Lahore,Fixed Deposit,Cantt,358978.41,Active,2022-06-15,Low
+ABL-10003,Sana Khan,35204-4567890-4,0332-1184665,sana.khan@email.com,Karachi,Savings,Cantt,124994.8,Active,2020-10-04,High
+ABL-10004,Usman Tariq,35205-5678901-5,0326-6663443,usman.tariq@email.com,Islamabad,Fixed Deposit,Main Branch,283312.68,Active,2022-03-30,Low
+ABL-10005,Ayesha Iqbal,35206-6789012-6,0348-2733409,ayesha.iqbal@email.com,Islamabad,Savings,Model Town,493297.67,Active,2020-06-19,Medium
+ABL-10006,Zubair Ahmed,35207-7890123-7,0322-5866246,zubair.ahmed@email.com,Peshawar,Savings,Blue Area,116845.6,Active,2020-06-11,High
+ABL-10007,Hira Baig,35208-8901234-8,0328-2709802,hira.baig@email.com,Islamabad,Savings,DHA,238643.02,Active,2022-03-06,Medium
+ABL-10008,Kamran Siddiqui,35209-9012345-9,0314-9982159,kamran.siddiqui@email.com,Quetta,Savings,Model Town,303990.15,Inactive,2021-10-16,Low
+ABL-10009,Nadia Hussain,35210-0123456-0,0318-5075414,nadia.hussain@email.com,Multan,Current,Saddar,322991.83,Active,2018-04-11,High
+ABL-10010,Faisal Nawaz,35211-1234568-1,0346-3154452,faisal.nawaz@email.com,Quetta,Fixed Deposit,Main Branch,68927.82,Active,2022-07-25,High
+ABL-10011,Sara Javed,35212-2345679-2,0348-4839092,sara.javed@email.com,Rawalpindi,Salary,Main Branch,247741.81,Frozen,2020-09-21,High
+ABL-10012,Imran Sheikh,35213-3456780-3,0330-2804368,imran.sheikh@email.com,Quetta,Savings,Model Town,327182.95,Active,2018-07-07,Low
+ABL-10013,Maryam Ali,35214-4567891-4,0349-9590247,maryam.ali@email.com,Islamabad,Savings,Main Branch,32965.48,Active,2019-12-19,Medium
+ABL-10014,Tariq Mehmood,35215-5678902-5,0345-9396102,tariq.mehmood@email.com,Rawalpindi,Salary,Main Branch,62836.5,Active,2018-03-18,Low
+ABL-10015,Rabia Noor,35216-6789013-6,0336-6900268,rabia.noor@email.com,Karachi,Current,Blue Area,76973.78,Active,2021-01-17,High
+ABL-10016,Hassan Rauf,35217-7890124-7,0334-2108848,hassan.rauf@email.com,Multan,Current,Main Branch,137260.84,Active,2018-01-21,High
+ABL-10017,Zara Butt,35218-8901235-8,0317-1969828,zara.butt@email.com,Quetta,Salary,Model Town,5603.7,Frozen,2019-05-31,High
+ABL-10018,Adeel Farooq,35219-9012346-9,0311-4353275,adeel.farooq@email.com,Faisalabad,Salary,DHA,144829.35,Active,2022-06-01,Medium
+ABL-10019,Noor Fatima,35220-0123457-0,0315-4556771,noor.fatima@email.com,Rawalpindi,Savings,Saddar,388792.0,Active,2021-02-26,High

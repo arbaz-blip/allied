@@ -1,0 +1,6 @@
+channel,total_txns,total_amount,failed_txns
+ATM,194,5060421.15,13
+Mobile App,178,4371089.07,13
+Branch,170,4129356.81,3
+Online,166,4171604.09,8
+POS,154,3732204.51,12

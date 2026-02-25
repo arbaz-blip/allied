@@ -1,0 +1,13 @@
+account_type,status,risk_rating,count
+Current,Active,High,3
+Savings,Active,High,3
+Savings,Active,Medium,3
+Fixed Deposit,Active,Low,2
+Salary,Frozen,High,2
+Fixed Deposit,Active,High,1
+Fixed Deposit,Active,Medium,1
+Fixed Deposit,Frozen,High,1
+Salary,Active,Low,1
+Salary,Active,Medium,1
+Savings,Active,Low,1
+Savings,Inactive,Low,1

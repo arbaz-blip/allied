@@ -1,0 +1,863 @@
+txn_id,account_id,txn_date,txn_type,category,amount,balance_after,channel,description,status
+1,ABL-10000,2024-05-09,Debit,Salary,27459.38,344093.32,Branch,Salary via Branch,Success
+2,ABL-10000,2023-08-16,Debit,Loan Payment,48394.04,295699.28,Mobile App,Loan Payment via Mobile App,Success
+3,ABL-10000,2023-10-23,Debit,Salary,43219.52,252479.76,Mobile App,Salary via Mobile App,Success
+4,ABL-10000,2022-06-16,Debit,Utility Bill,20935.39,231544.37,Mobile App,Utility Bill via Mobile App,Success
+5,ABL-10000,2024-05-27,Credit,Insurance,35276.68,266821.05,Mobile App,Insurance via Mobile App,Pending
+6,ABL-10000,2022-09-12,Debit,Investment,5886.71,260934.34,Branch,Investment via Branch,Success
+7,ABL-10000,2024-05-21,Credit,Loan Payment,16288.84,277223.18,POS,Loan Payment via POS,Success
+8,ABL-10000,2022-04-22,Debit,Cash Withdrawal,4043.12,273180.06,ATM,Cash Withdrawal via ATM,Success
+9,ABL-10000,2023-06-06,Credit,Loan Payment,20516.58,293696.64,Online,Loan Payment via Online,Success
+10,ABL-10000,2021-02-16,Debit,Loan Payment,26755.03,266941.61,Branch,Loan Payment via Branch,Success
+11,ABL-10000,2022-10-03,Credit,Cash Withdrawal,30368.92,297310.53,ATM,Cash Withdrawal via ATM,Success
+12,ABL-10000,2020-07-01,Credit,Investment,14673.79,311984.32,Branch,Investment via Branch,Success
+13,ABL-10000,2024-07-07,Credit,Insurance,36664.26,348648.58,ATM,Insurance via ATM,Success
+14,ABL-10000,2022-01-22,Debit,Transfer,16001.89,332646.69,POS,Transfer via POS,Success
+15,ABL-10000,2024-09-17,Debit,Loan Payment,25544.79,307101.9,ATM,Loan Payment via ATM,Pending
+16,ABL-10000,2020-10-07,Debit,Shopping,45294.25,261807.65,ATM,Shopping via ATM,Success
+17,ABL-10000,2024-01-26,Debit,Loan Payment,33427.52,228380.13,POS,Loan Payment via POS,Success
+18,ABL-10000,2023-07-21,Debit,Salary,34756.92,193623.21,ATM,Salary via ATM,Failed
+19,ABL-10000,2021-06-29,Credit,Salary,39032.16,232655.37,POS,Salary via POS,Success
+20,ABL-10000,2021-08-11,Debit,Transfer,19382.45,213272.92,Branch,Transfer via Branch,Success
+21,ABL-10000,2023-07-22,Debit,Insurance,5651.41,207621.51,ATM,Insurance via ATM,Success
+22,ABL-10000,2021-03-29,Debit,Investment,37349.13,170272.38,Mobile App,Investment via Mobile App,Success
+23,ABL-10000,2022-11-14,Debit,Shopping,25966.1,144306.28,Online,Shopping via Online,Success
+24,ABL-10000,2021-09-02,Debit,Shopping,4543.12,139763.16,Mobile App,Shopping via Mobile App,Success
+25,ABL-10000,2024-10-18,Credit,Cash Withdrawal,23020.38,162783.54,Branch,Cash Withdrawal via Branch,Success
+26,ABL-10000,2020-10-08,Credit,Investment,19555.78,182339.32,Mobile App,Investment via Mobile App,Success
+27,ABL-10000,2021-04-02,Debit,Cash Withdrawal,49736.2,132603.12,ATM,Cash Withdrawal via ATM,Success
+28,ABL-10000,2022-02-02,Debit,Utility Bill,43192.28,89410.84,Mobile App,Utility Bill via Mobile App,Success
+29,ABL-10000,2024-06-24,Debit,Transfer,25831.92,63578.92,POS,Transfer via POS,Success
+30,ABL-10000,2023-10-23,Credit,Investment,13992.17,77571.09,Mobile App,Investment via Mobile App,Success
+31,ABL-10000,2020-04-08,Debit,Investment,11719.89,65851.2,POS,Investment via POS,Success
+32,ABL-10000,2021-08-13,Credit,Investment,49467.17,115318.37,Online,Investment via Online,Success
+33,ABL-10000,2021-05-15,Credit,Cash Withdrawal,3078.32,118396.69,Mobile App,Cash Withdrawal via Mobile App,Success
+34,ABL-10000,2022-06-09,Debit,Salary,29687.29,88709.4,ATM,Salary via ATM,Success
+35,ABL-10000,2021-06-21,Debit,Loan Payment,42486.07,46223.33,ATM,Loan Payment via ATM,Pending
+36,ABL-10000,2023-04-16,Credit,Shopping,36850.78,83074.11,ATM,Shopping via ATM,Success
+37,ABL-10000,2022-09-01,Credit,Transfer,35525.73,118599.84,Branch,Transfer via Branch,Success
+38,ABL-10000,2023-04-13,Credit,Transfer,32442.16,151042.0,Online,Transfer via Online,Success
+39,ABL-10000,2020-07-31,Debit,Insurance,11779.84,139262.16,Mobile App,Insurance via Mobile App,Success
+40,ABL-10000,2021-09-10,Credit,Salary,766.65,140028.81,Online,Salary via Online,Success
+41,ABL-10000,2023-02-17,Debit,Salary,48735.17,91293.64,Online,Salary via Online,Success
+42,ABL-10000,2023-03-04,Credit,Loan Payment,36005.81,127299.45,ATM,Loan Payment via ATM,Success
+43,ABL-10000,2023-04-01,Credit,Cash Withdrawal,38133.25,165432.7,POS,Cash Withdrawal via POS,Success
+44,ABL-10000,2024-03-04,Debit,Transfer,40116.63,125316.07,Branch,Transfer via Branch,Success
+45,ABL-10000,2019-12-24,Debit,Cash Withdrawal,11552.16,113763.91,Mobile App,Cash Withdrawal via Mobile App,Success
+46,ABL-10000,2020-01-10,Debit,Insurance,40512.6,73251.31,Branch,Insurance via Branch,Success
+47,ABL-10000,2024-06-04,Credit,Loan Payment,15298.55,88549.86,Online,Loan Payment via Online,Success
+48,ABL-10000,2022-05-22,Debit,Investment,45314.19,43235.67,Online,Investment via Online,Success
+49,ABL-10000,2020-08-03,Credit,Loan Payment,20249.01,63484.68,ATM,Loan Payment via ATM,Success
+50,ABL-10000,2022-12-31,Credit,Shopping,10301.97,73786.65,Mobile App,Shopping via Mobile App,Success
+51,ABL-10000,2021-08-14,Debit,Loan Payment,28946.36,44840.29,Mobile App,Loan Payment via Mobile App,Success
+52,ABL-10000,2021-10-21,Credit,Investment,36278.93,81119.22,POS,Investment via POS,Success
+53,ABL-10000,2021-05-10,Credit,Shopping,39457.61,120576.83,ATM,Shopping via ATM,Success
+54,ABL-10000,2023-11-14,Debit,Utility Bill,22384.77,98192.06,Branch,Utility Bill via Branch,Success
+55,ABL-10000,2024-05-28,Credit,Investment,2233.7,100425.76,ATM,Investment via ATM,Failed
+56,ABL-10000,2022-01-08,Credit,Salary,31493.98,131919.74,Mobile App,Salary via Mobile App,Success
+57,ABL-10001,2025-01-06,Debit,Cash Withdrawal,9814.19,214685.27,POS,Cash Withdrawal via POS,Failed
+58,ABL-10001,2023-06-04,Debit,Utility Bill,47803.32,166881.95,Online,Utility Bill via Online,Success
+59,ABL-10001,2023-04-27,Debit,Loan Payment,49989.21,116892.74,Online,Loan Payment via Online,Success
+60,ABL-10001,2025-04-26,Credit,Transfer,28265.48,145158.22,Online,Transfer via Online,Success
+61,ABL-10001,2024-11-19,Credit,Utility Bill,9433.6,154591.82,ATM,Utility Bill via ATM,Success
+62,ABL-10001,2025-04-24,Credit,Loan Payment,628.97,155220.79,Mobile App,Loan Payment via Mobile App,Success
+63,ABL-10001,2023-12-01,Debit,Insurance,19380.6,135840.19,Branch,Insurance via Branch,Success
+64,ABL-10001,2024-01-11,Debit,Transfer,48387.9,87452.29,Online,Transfer via Online,Success
+65,ABL-10001,2025-03-25,Credit,Transfer,5376.91,92829.2,Mobile App,Transfer via Mobile App,Success
+66,ABL-10001,2023-03-12,Debit,Insurance,28128.42,64700.78,Online,Insurance via Online,Success
+67,ABL-10001,2024-01-03,Credit,Loan Payment,20247.44,84948.22,Mobile App,Loan Payment via Mobile App,Success
+68,ABL-10001,2024-06-22,Credit,Utility Bill,2893.6,87841.82,ATM,Utility Bill via ATM,Success
+69,ABL-10001,2025-09-15,Credit,Utility Bill,21842.18,109684.0,Online,Utility Bill via Online,Success
+70,ABL-10001,2026-10-27,Debit,Loan Payment,21987.39,87696.61,Branch,Loan Payment via Branch,Success
+71,ABL-10001,2023-10-17,Debit,Shopping,7911.59,79785.02,POS,Shopping via POS,Success
+72,ABL-10001,2022-12-06,Debit,Utility Bill,43496.99,36288.03,Mobile App,Utility Bill via Mobile App,Success
+73,ABL-10001,2025-03-06,Debit,Utility Bill,10859.62,25428.41,Branch,Utility Bill via Branch,Success
+74,ABL-10001,2025-12-31,Credit,Insurance,21661.29,47089.7,Mobile App,Insurance via Mobile App,Success
+75,ABL-10001,2023-04-28,Debit,Investment,38533.99,8555.71,Mobile App,Investment via Mobile App,Success
+76,ABL-10001,2022-11-27,Credit,Salary,1061.92,9617.63,Online,Salary via Online,Success
+77,ABL-10001,2024-04-25,Credit,Insurance,31051.74,40669.37,ATM,Insurance via ATM,Success
+78,ABL-10001,2023-04-02,Credit,Loan Payment,18906.42,59575.79,POS,Loan Payment via POS,Success
+79,ABL-10001,2023-05-16,Credit,Insurance,47113.85,106689.64,ATM,Insurance via ATM,Success
+80,ABL-10001,2024-08-18,Debit,Utility Bill,8102.53,98587.11,Mobile App,Utility Bill via Mobile App,Pending
+81,ABL-10001,2025-08-02,Credit,Insurance,26298.54,124885.65,Mobile App,Insurance via Mobile App,Success
+82,ABL-10001,2023-01-02,Credit,Investment,31852.1,156737.75,ATM,Investment via ATM,Success
+83,ABL-10001,2025-11-11,Debit,Utility Bill,28732.88,128004.87,Online,Utility Bill via Online,Success
+84,ABL-10001,2027-09-18,Credit,Loan Payment,36557.56,164562.43,POS,Loan Payment via POS,Failed
+85,ABL-10001,2025-09-11,Debit,Cash Withdrawal,40378.59,124183.84,Branch,Cash Withdrawal via Branch,Success
+86,ABL-10001,2025-12-24,Debit,Transfer,10828.59,113355.25,Mobile App,Transfer via Mobile App,Success
+87,ABL-10001,2024-05-05,Credit,Transfer,10817.44,124172.69,Mobile App,Transfer via Mobile App,Failed
+88,ABL-10001,2024-04-04,Debit,Insurance,29969.76,94202.93,Mobile App,Insurance via Mobile App,Success
+89,ABL-10001,2024-12-08,Credit,Salary,11187.12,105390.05,Mobile App,Salary via Mobile App,Success
+90,ABL-10001,2026-12-11,Credit,Insurance,13501.05,118891.1,Branch,Insurance via Branch,Success
+91,ABL-10001,2023-10-12,Debit,Utility Bill,41057.07,77834.03,Online,Utility Bill via Online,Failed
+92,ABL-10001,2023-02-11,Debit,Utility Bill,34218.27,43615.76,Mobile App,Utility Bill via Mobile App,Success
+93,ABL-10001,2024-07-27,Debit,Transfer,22771.69,20844.07,Online,Transfer via Online,Success
+94,ABL-10001,2026-09-14,Debit,Shopping,24564.02,0.0,Branch,Shopping via Branch,Success
+95,ABL-10001,2024-11-18,Credit,Insurance,18537.65,18537.65,Mobile App,Insurance via Mobile App,Failed
+96,ABL-10001,2024-12-30,Credit,Salary,39057.8,57595.45,Mobile App,Salary via Mobile App,Success
+97,ABL-10001,2024-08-23,Credit,Loan Payment,33448.69,91044.14,Branch,Loan Payment via Branch,Success
+98,ABL-10001,2025-10-02,Credit,Transfer,18488.81,109532.95,POS,Transfer via POS,Success
+99,ABL-10001,2026-10-22,Credit,Utility Bill,8279.73,117812.68,Online,Utility Bill via Online,Success
+100,ABL-10001,2023-03-24,Credit,Shopping,44721.7,162534.38,ATM,Shopping via ATM,Pending
+101,ABL-10001,2027-01-11,Debit,Transfer,17260.31,145274.07,Branch,Transfer via Branch,Success
+102,ABL-10001,2027-04-27,Credit,Utility Bill,30772.09,176046.16,ATM,Utility Bill via ATM,Success
+103,ABL-10001,2026-01-06,Debit,Utility Bill,13397.24,162648.92,POS,Utility Bill via POS,Success
+104,ABL-10001,2024-12-20,Credit,Shopping,25174.8,187823.72,POS,Shopping via POS,Success
+105,ABL-10001,2027-10-21,Credit,Investment,11843.82,199667.54,Online,Investment via Online,Failed
+106,ABL-10001,2027-04-28,Debit,Loan Payment,12465.71,187201.83,ATM,Loan Payment via ATM,Success
+107,ABL-10001,2024-09-28,Debit,Investment,44630.18,142571.65,ATM,Investment via ATM,Success
+108,ABL-10001,2027-04-13,Debit,Cash Withdrawal,4134.59,138437.06,Online,Cash Withdrawal via Online,Success
+109,ABL-10001,2024-11-29,Debit,Transfer,25237.93,113199.13,POS,Transfer via POS,Success
+110,ABL-10001,2026-09-20,Credit,Loan Payment,19258.28,132457.41,POS,Loan Payment via POS,Failed
+111,ABL-10001,2024-05-03,Debit,Insurance,44765.06,87692.35,Online,Insurance via Online,Success
+112,ABL-10001,2027-04-14,Credit,Transfer,31714.32,119406.67,Branch,Transfer via Branch,Success
+113,ABL-10001,2023-11-17,Debit,Transfer,44084.19,75322.48,ATM,Transfer via ATM,Success
+114,ABL-10001,2027-07-03,Debit,Salary,44232.66,31089.82,ATM,Salary via ATM,Success
+115,ABL-10001,2024-03-30,Credit,Transfer,32961.29,64051.11,Mobile App,Transfer via Mobile App,Success
+116,ABL-10001,2024-10-17,Debit,Transfer,29865.41,34185.7,Branch,Transfer via Branch,Success
+117,ABL-10002,2026-11-28,Debit,Salary,27988.12,330990.29,POS,Salary via POS,Success
+118,ABL-10002,2023-01-11,Credit,Salary,19819.46,350809.75,POS,Salary via POS,Success
+119,ABL-10002,2026-05-11,Credit,Loan Payment,8860.45,359670.2,Online,Loan Payment via Online,Success
+120,ABL-10002,2026-10-06,Credit,Loan Payment,26097.07,385767.27,POS,Loan Payment via POS,Success
+121,ABL-10002,2024-02-29,Debit,Transfer,33038.23,352729.04,Mobile App,Transfer via Mobile App,Success
+122,ABL-10002,2023-03-23,Credit,Insurance,34738.95,387467.99,POS,Insurance via POS,Success
+123,ABL-10002,2025-05-23,Debit,Loan Payment,21869.05,365598.94,ATM,Loan Payment via ATM,Success
+124,ABL-10002,2027-02-11,Credit,Cash Withdrawal,26061.07,391660.01,Mobile App,Cash Withdrawal via Mobile App,Success
+125,ABL-10002,2025-01-11,Credit,Salary,15099.78,406759.79,ATM,Salary via ATM,Success
+126,ABL-10002,2025-01-04,Debit,Loan Payment,8096.15,398663.64,ATM,Loan Payment via ATM,Success
+127,ABL-10002,2023-01-05,Debit,Shopping,47835.47,350828.17,Mobile App,Shopping via Mobile App,Success
+128,ABL-10002,2025-04-23,Credit,Loan Payment,33856.31,384684.48,POS,Loan Payment via POS,Failed
+129,ABL-10002,2022-10-30,Credit,Salary,16293.75,400978.23,Online,Salary via Online,Success
+130,ABL-10002,2024-06-13,Credit,Insurance,5367.5,406345.73,ATM,Insurance via ATM,Success
+131,ABL-10002,2025-02-12,Credit,Utility Bill,6936.72,413282.45,POS,Utility Bill via POS,Success
+132,ABL-10002,2024-11-12,Credit,Loan Payment,6877.36,420159.81,POS,Loan Payment via POS,Success
+133,ABL-10002,2023-05-19,Debit,Utility Bill,46201.97,373957.84,ATM,Utility Bill via ATM,Pending
+134,ABL-10002,2024-03-09,Debit,Loan Payment,25816.45,348141.39,Branch,Loan Payment via Branch,Success
+135,ABL-10002,2024-05-21,Debit,Cash Withdrawal,19396.13,328745.26,ATM,Cash Withdrawal via ATM,Success
+136,ABL-10002,2023-04-21,Debit,Investment,13016.48,315728.78,Branch,Investment via Branch,Success
+137,ABL-10002,2023-10-02,Debit,Salary,15993.68,299735.1,Branch,Salary via Branch,Success
+138,ABL-10002,2023-07-16,Debit,Utility Bill,32751.31,266983.79,Branch,Utility Bill via Branch,Success
+139,ABL-10002,2026-09-25,Debit,Transfer,36162.27,230821.52,Online,Transfer via Online,Success
+140,ABL-10002,2024-02-11,Debit,Utility Bill,18478.52,212343.0,ATM,Utility Bill via ATM,Success
+141,ABL-10002,2024-10-27,Credit,Cash Withdrawal,48772.63,261115.63,Mobile App,Cash Withdrawal via Mobile App,Success
+142,ABL-10002,2025-08-20,Credit,Utility Bill,20293.78,281409.41,Mobile App,Utility Bill via Mobile App,Failed
+143,ABL-10002,2024-04-18,Credit,Cash Withdrawal,40242.77,321652.18,Mobile App,Cash Withdrawal via Mobile App,Success
+144,ABL-10002,2022-10-29,Debit,Utility Bill,42975.34,278676.84,ATM,Utility Bill via ATM,Success
+145,ABL-10002,2023-12-29,Debit,Shopping,11528.17,267148.67,POS,Shopping via POS,Pending
+146,ABL-10002,2023-08-16,Credit,Loan Payment,6685.62,273834.29,Mobile App,Loan Payment via Mobile App,Success
+147,ABL-10002,2024-04-20,Credit,Shopping,30431.38,304265.67,Online,Shopping via Online,Success
+148,ABL-10002,2025-03-13,Credit,Salary,27442.2,331707.87,ATM,Salary via ATM,Success
+149,ABL-10002,2027-05-18,Debit,Salary,23522.85,308185.02,Branch,Salary via Branch,Success
+150,ABL-10002,2024-05-11,Credit,Salary,31494.01,339679.03,POS,Salary via POS,Success
+151,ABL-10002,2025-03-04,Credit,Insurance,48533.39,388212.42,ATM,Insurance via ATM,Success
+152,ABL-10002,2025-09-16,Credit,Shopping,18679.75,406892.17,POS,Shopping via POS,Success
+153,ABL-10002,2022-06-25,Debit,Shopping,21529.96,385362.21,Branch,Shopping via Branch,Success
+154,ABL-10002,2024-04-30,Debit,Salary,36511.36,348850.85,Branch,Salary via Branch,Success
+155,ABL-10002,2026-09-24,Credit,Utility Bill,15361.04,364211.89,Branch,Utility Bill via Branch,Success
+156,ABL-10002,2025-02-08,Debit,Cash Withdrawal,11501.42,352710.47,POS,Cash Withdrawal via POS,Success
+157,ABL-10002,2026-07-03,Debit,Transfer,45197.7,307512.77,Branch,Transfer via Branch,Success
+158,ABL-10002,2024-01-08,Debit,Cash Withdrawal,18887.81,288624.96,Branch,Cash Withdrawal via Branch,Success
+159,ABL-10002,2023-10-18,Debit,Insurance,15580.94,273044.02,Branch,Insurance via Branch,Success
+160,ABL-10002,2024-04-24,Debit,Cash Withdrawal,8417.58,264626.44,Branch,Cash Withdrawal via Branch,Success
+161,ABL-10002,2025-02-23,Credit,Investment,20523.2,285149.64,Mobile App,Investment via Mobile App,Success
+162,ABL-10002,2024-03-05,Debit,Loan Payment,43583.67,241565.97,Online,Loan Payment via Online,Success
+163,ABL-10002,2025-07-18,Debit,Utility Bill,16402.76,225163.21,Branch,Utility Bill via Branch,Success
+164,ABL-10002,2023-03-16,Credit,Salary,14520.67,239683.88,Online,Salary via Online,Success
+165,ABL-10002,2023-01-11,Debit,Insurance,3081.94,236601.94,Online,Insurance via Online,Success
+166,ABL-10003,2021-11-05,Debit,Cash Withdrawal,25239.54,99755.26,POS,Cash Withdrawal via POS,Success
+167,ABL-10003,2021-01-11,Credit,Cash Withdrawal,45084.5,144839.76,Mobile App,Cash Withdrawal via Mobile App,Success
+168,ABL-10003,2023-06-19,Credit,Shopping,28471.32,173311.08,Mobile App,Shopping via Mobile App,Success
+169,ABL-10003,2021-08-10,Credit,Shopping,1590.37,174901.45,POS,Shopping via POS,Success
+170,ABL-10003,2023-08-02,Credit,Insurance,19956.29,194857.74,Online,Insurance via Online,Success
+171,ABL-10003,2023-02-21,Credit,Shopping,23324.39,218182.13,Mobile App,Shopping via Mobile App,Success
+172,ABL-10003,2021-10-15,Debit,Loan Payment,17316.99,200865.14,Online,Loan Payment via Online,Success
+173,ABL-10003,2021-07-07,Credit,Cash Withdrawal,5723.79,206588.93,Branch,Cash Withdrawal via Branch,Success
+174,ABL-10003,2023-10-18,Credit,Investment,17371.22,223960.15,Mobile App,Investment via Mobile App,Success
+175,ABL-10003,2021-11-25,Credit,Shopping,42429.55,266389.7,POS,Shopping via POS,Success
+176,ABL-10003,2022-11-03,Credit,Shopping,7707.84,274097.54,POS,Shopping via POS,Failed
+177,ABL-10003,2022-07-30,Debit,Utility Bill,4215.06,269882.48,Branch,Utility Bill via Branch,Success
+178,ABL-10003,2023-03-02,Credit,Cash Withdrawal,20424.63,290307.11,Online,Cash Withdrawal via Online,Success
+179,ABL-10003,2021-05-15,Debit,Transfer,20807.9,269499.21,Mobile App,Transfer via Mobile App,Failed
+180,ABL-10003,2020-12-30,Credit,Cash Withdrawal,13574.81,283074.02,POS,Cash Withdrawal via POS,Success
+181,ABL-10003,2025-02-09,Credit,Investment,40246.73,323320.75,Mobile App,Investment via Mobile App,Failed
+182,ABL-10003,2025-01-13,Debit,Investment,48365.11,274955.64,ATM,Investment via ATM,Success
+183,ABL-10003,2023-12-12,Credit,Transfer,15866.03,290821.67,Mobile App,Transfer via Mobile App,Success
+184,ABL-10003,2022-03-14,Debit,Salary,3220.64,287601.03,Branch,Salary via Branch,Success
+185,ABL-10003,2024-03-24,Credit,Transfer,24316.51,311917.54,ATM,Transfer via ATM,Success
+186,ABL-10003,2023-07-05,Credit,Insurance,24168.27,336085.81,POS,Insurance via POS,Failed
+187,ABL-10003,2022-06-08,Credit,Investment,1709.71,337795.52,POS,Investment via POS,Success
+188,ABL-10003,2024-09-14,Debit,Salary,16710.56,321084.96,POS,Salary via POS,Success
+189,ABL-10003,2021-03-11,Debit,Investment,45839.8,275245.16,Mobile App,Investment via Mobile App,Success
+190,ABL-10003,2024-02-07,Debit,Shopping,32551.42,242693.74,ATM,Shopping via ATM,Success
+191,ABL-10003,2025-01-01,Credit,Shopping,41907.78,284601.52,POS,Shopping via POS,Pending
+192,ABL-10003,2022-06-20,Debit,Shopping,14934.02,269667.5,Mobile App,Shopping via Mobile App,Success
+193,ABL-10003,2024-10-28,Debit,Insurance,11383.0,258284.5,Online,Insurance via Online,Success
+194,ABL-10003,2021-11-08,Debit,Investment,22830.86,235453.64,Mobile App,Investment via Mobile App,Success
+195,ABL-10003,2020-12-11,Credit,Shopping,12299.1,247752.74,Branch,Shopping via Branch,Success
+196,ABL-10003,2025-04-28,Credit,Salary,40436.63,288189.37,Online,Salary via Online,Success
+197,ABL-10003,2025-08-21,Credit,Loan Payment,14989.71,303179.08,Mobile App,Loan Payment via Mobile App,Success
+198,ABL-10003,2024-03-03,Debit,Utility Bill,15392.37,287786.71,ATM,Utility Bill via ATM,Success
+199,ABL-10003,2023-11-12,Credit,Investment,35751.35,323538.06,Branch,Investment via Branch,Success
+200,ABL-10003,2023-09-12,Debit,Investment,37609.09,285928.97,Online,Investment via Online,Success
+201,ABL-10003,2021-04-10,Credit,Insurance,20870.15,306799.12,Branch,Insurance via Branch,Success
+202,ABL-10003,2021-04-17,Debit,Investment,2892.06,303907.06,Branch,Investment via Branch,Success
+203,ABL-10003,2023-03-07,Debit,Utility Bill,25597.17,278309.89,Mobile App,Utility Bill via Mobile App,Success
+204,ABL-10003,2022-06-01,Debit,Salary,28662.64,249647.25,Mobile App,Salary via Mobile App,Success
+205,ABL-10003,2022-01-01,Credit,Shopping,47038.6,296685.85,POS,Shopping via POS,Success
+206,ABL-10003,2021-09-11,Debit,Transfer,44040.08,252645.77,POS,Transfer via POS,Success
+207,ABL-10003,2024-10-30,Credit,Loan Payment,26396.05,279041.82,Online,Loan Payment via Online,Success
+208,ABL-10003,2021-01-31,Credit,Insurance,15692.89,294734.71,Mobile App,Insurance via Mobile App,Success
+209,ABL-10003,2021-03-09,Credit,Loan Payment,31935.92,326670.63,POS,Loan Payment via POS,Success
+210,ABL-10003,2023-12-30,Credit,Transfer,2376.75,329047.38,Online,Transfer via Online,Success
+211,ABL-10003,2024-05-22,Credit,Loan Payment,34535.83,363583.21,ATM,Loan Payment via ATM,Success
+212,ABL-10003,2021-01-05,Debit,Salary,23012.87,340570.34,ATM,Salary via ATM,Success
+213,ABL-10003,2025-05-16,Credit,Transfer,13363.0,353933.34,ATM,Transfer via ATM,Success
+214,ABL-10003,2021-02-28,Debit,Investment,43768.94,310164.4,Online,Investment via Online,Success
+215,ABL-10004,2024-09-14,Debit,Loan Payment,25354.35,257958.33,Mobile App,Loan Payment via Mobile App,Success
+216,ABL-10004,2025-08-24,Credit,Utility Bill,17717.41,275675.74,Branch,Utility Bill via Branch,Success
+217,ABL-10004,2027-01-26,Credit,Shopping,16814.29,292490.03,POS,Shopping via POS,Success
+218,ABL-10004,2022-06-06,Debit,Insurance,16425.65,276064.38,Mobile App,Insurance via Mobile App,Success
+219,ABL-10004,2024-08-20,Debit,Loan Payment,37768.04,238296.34,Branch,Loan Payment via Branch,Success
+220,ABL-10004,2022-11-17,Debit,Utility Bill,34597.0,203699.34,Mobile App,Utility Bill via Mobile App,Success
+221,ABL-10004,2023-04-01,Credit,Loan Payment,42390.66,246090.0,Branch,Loan Payment via Branch,Success
+222,ABL-10004,2024-05-16,Credit,Cash Withdrawal,2057.41,248147.41,POS,Cash Withdrawal via POS,Success
+223,ABL-10004,2023-07-10,Debit,Utility Bill,22612.0,225535.41,Online,Utility Bill via Online,Success
+224,ABL-10004,2022-10-16,Debit,Utility Bill,30628.48,194906.93,Mobile App,Utility Bill via Mobile App,Success
+225,ABL-10004,2024-10-24,Credit,Salary,32522.4,227429.33,POS,Salary via POS,Success
+226,ABL-10004,2024-10-21,Debit,Utility Bill,16064.0,211365.33,ATM,Utility Bill via ATM,Failed
+227,ABL-10004,2023-06-09,Debit,Utility Bill,40102.08,171263.25,Mobile App,Utility Bill via Mobile App,Success
+228,ABL-10004,2024-02-02,Credit,Cash Withdrawal,14039.01,185302.26,Branch,Cash Withdrawal via Branch,Success
+229,ABL-10004,2025-05-01,Credit,Investment,43628.57,228930.83,ATM,Investment via ATM,Success
+230,ABL-10004,2025-08-08,Credit,Loan Payment,37838.44,266769.27,POS,Loan Payment via POS,Success
+231,ABL-10004,2023-10-01,Credit,Transfer,6481.56,273250.83,Branch,Transfer via Branch,Success
+232,ABL-10004,2026-01-12,Debit,Utility Bill,28042.51,245208.32,Online,Utility Bill via Online,Success
+233,ABL-10004,2024-06-20,Debit,Cash Withdrawal,4054.1,241154.22,POS,Cash Withdrawal via POS,Success
+234,ABL-10004,2022-12-13,Credit,Shopping,4598.09,245752.31,ATM,Shopping via ATM,Success
+235,ABL-10004,2023-12-20,Credit,Shopping,46642.63,292394.94,Online,Shopping via Online,Success
+236,ABL-10004,2024-06-19,Credit,Insurance,13683.22,306078.16,Branch,Insurance via Branch,Success
+237,ABL-10004,2025-06-24,Credit,Investment,30959.9,337038.06,Mobile App,Investment via Mobile App,Success
+238,ABL-10004,2024-12-02,Debit,Insurance,7546.95,329491.11,Online,Insurance via Online,Success
+239,ABL-10004,2022-05-12,Credit,Shopping,15548.43,345039.54,POS,Shopping via POS,Success
+240,ABL-10004,2025-10-09,Credit,Loan Payment,25369.29,370408.83,Mobile App,Loan Payment via Mobile App,Success
+241,ABL-10004,2022-11-30,Credit,Investment,29508.02,399916.85,ATM,Investment via ATM,Success
+242,ABL-10004,2026-05-31,Debit,Transfer,45994.09,353922.76,Branch,Transfer via Branch,Success
+243,ABL-10004,2025-11-23,Debit,Utility Bill,44046.25,309876.51,POS,Utility Bill via POS,Success
+244,ABL-10004,2024-04-20,Debit,Loan Payment,12548.37,297328.14,Mobile App,Loan Payment via Mobile App,Pending
+245,ABL-10004,2025-07-30,Credit,Insurance,15991.53,313319.67,Branch,Insurance via Branch,Success
+246,ABL-10004,2026-04-28,Debit,Salary,25077.24,288242.43,ATM,Salary via ATM,Success
+247,ABL-10004,2024-08-27,Debit,Shopping,44921.99,243320.44,Online,Shopping via Online,Pending
+248,ABL-10004,2025-12-03,Credit,Shopping,30055.09,273375.53,Mobile App,Shopping via Mobile App,Success
+249,ABL-10004,2023-03-29,Credit,Insurance,8573.78,281949.31,Mobile App,Insurance via Mobile App,Success
+250,ABL-10004,2024-08-14,Credit,Cash Withdrawal,1888.78,283838.09,Mobile App,Cash Withdrawal via Mobile App,Success
+251,ABL-10004,2026-10-28,Debit,Transfer,7820.4,276017.69,ATM,Transfer via ATM,Success
+252,ABL-10004,2026-08-12,Debit,Utility Bill,6530.29,269487.4,Online,Utility Bill via Online,Success
+253,ABL-10004,2024-08-16,Credit,Transfer,31216.93,300704.33,ATM,Transfer via ATM,Success
+254,ABL-10004,2025-07-07,Credit,Utility Bill,33202.08,333906.41,Branch,Utility Bill via Branch,Success
+255,ABL-10004,2024-03-31,Debit,Investment,23205.38,310701.03,Mobile App,Investment via Mobile App,Success
+256,ABL-10004,2025-02-24,Debit,Transfer,47343.36,263357.67,Branch,Transfer via Branch,Success
+257,ABL-10004,2024-09-07,Debit,Salary,20177.3,243180.37,POS,Salary via POS,Success
+258,ABL-10005,2022-08-15,Credit,Loan Payment,31247.03,524544.7,ATM,Loan Payment via ATM,Success
+259,ABL-10005,2021-08-29,Credit,Loan Payment,27978.61,552523.31,Branch,Loan Payment via Branch,Success
+260,ABL-10005,2020-06-26,Credit,Shopping,11215.07,563738.38,Branch,Shopping via Branch,Success
+261,ABL-10005,2023-07-20,Credit,Investment,21332.5,585070.88,Online,Investment via Online,Success
+262,ABL-10005,2021-02-18,Credit,Cash Withdrawal,13740.78,598811.66,Branch,Cash Withdrawal via Branch,Failed
+263,ABL-10005,2020-07-08,Credit,Shopping,29549.11,628360.77,POS,Shopping via POS,Success
+264,ABL-10005,2024-08-31,Debit,Loan Payment,32091.94,596268.83,Online,Loan Payment via Online,Success
+265,ABL-10005,2023-07-01,Credit,Salary,24674.25,620943.08,Mobile App,Salary via Mobile App,Success
+266,ABL-10005,2024-11-19,Credit,Cash Withdrawal,1184.55,622127.63,ATM,Cash Withdrawal via ATM,Failed
+267,ABL-10005,2022-04-25,Credit,Insurance,4056.06,626183.69,Online,Insurance via Online,Success
+268,ABL-10005,2022-11-26,Credit,Salary,25342.15,651525.84,ATM,Salary via ATM,Success
+269,ABL-10005,2024-05-05,Credit,Shopping,38732.7,690258.54,ATM,Shopping via ATM,Success
+270,ABL-10005,2023-08-22,Debit,Cash Withdrawal,38829.12,651429.42,Online,Cash Withdrawal via Online,Success
+271,ABL-10005,2022-06-24,Credit,Cash Withdrawal,2846.85,654276.27,Online,Cash Withdrawal via Online,Success
+272,ABL-10005,2020-06-25,Debit,Cash Withdrawal,29552.18,624724.09,ATM,Cash Withdrawal via ATM,Success
+273,ABL-10005,2023-02-28,Debit,Salary,10513.4,614210.69,Online,Salary via Online,Success
+274,ABL-10005,2021-10-24,Debit,Salary,38643.59,575567.1,Branch,Salary via Branch,Pending
+275,ABL-10005,2021-02-12,Debit,Investment,45235.9,530331.2,Online,Investment via Online,Success
+276,ABL-10005,2021-05-20,Debit,Investment,24598.24,505732.96,POS,Investment via POS,Pending
+277,ABL-10005,2022-05-28,Credit,Shopping,43543.45,549276.41,ATM,Shopping via ATM,Success
+278,ABL-10005,2024-01-13,Debit,Transfer,29980.35,519296.06,ATM,Transfer via ATM,Success
+279,ABL-10005,2021-10-08,Debit,Transfer,35770.9,483525.16,Online,Transfer via Online,Success
+280,ABL-10005,2020-10-18,Debit,Shopping,17009.84,466515.32,Online,Shopping via Online,Success
+281,ABL-10005,2022-05-03,Credit,Shopping,9444.86,475960.18,POS,Shopping via POS,Success
+282,ABL-10005,2024-05-08,Debit,Insurance,5109.54,470850.64,Branch,Insurance via Branch,Success
+283,ABL-10005,2024-09-24,Credit,Utility Bill,27854.81,498705.45,Branch,Utility Bill via Branch,Success
+284,ABL-10005,2020-11-19,Credit,Loan Payment,34593.66,533299.11,ATM,Loan Payment via ATM,Success
+285,ABL-10005,2021-06-02,Debit,Shopping,4676.26,528622.85,Mobile App,Shopping via Mobile App,Success
+286,ABL-10005,2022-05-28,Debit,Shopping,43353.14,485269.71,ATM,Shopping via ATM,Success
+287,ABL-10005,2023-02-15,Credit,Shopping,20711.15,505980.86,ATM,Shopping via ATM,Pending
+288,ABL-10005,2021-08-17,Credit,Salary,29815.68,535796.54,ATM,Salary via ATM,Success
+289,ABL-10005,2025-02-23,Credit,Shopping,26863.24,562659.78,Online,Shopping via Online,Success
+290,ABL-10005,2023-02-09,Credit,Cash Withdrawal,17979.25,580639.03,POS,Cash Withdrawal via POS,Success
+291,ABL-10005,2023-02-16,Debit,Investment,8992.72,571646.31,ATM,Investment via ATM,Success
+292,ABL-10005,2025-03-20,Credit,Insurance,40832.8,612479.11,ATM,Insurance via ATM,Success
+293,ABL-10005,2023-09-16,Debit,Salary,38598.42,573880.69,ATM,Salary via ATM,Success
+294,ABL-10006,2020-08-02,Debit,Insurance,38349.96,78495.64,ATM,Insurance via ATM,Success
+295,ABL-10006,2024-10-14,Debit,Transfer,10813.83,67681.81,Branch,Transfer via Branch,Success
+296,ABL-10006,2022-03-03,Debit,Insurance,12353.88,55327.93,Mobile App,Insurance via Mobile App,Success
+297,ABL-10006,2023-02-03,Credit,Cash Withdrawal,43457.11,98785.04,Branch,Cash Withdrawal via Branch,Success
+298,ABL-10006,2024-07-10,Debit,Salary,18954.11,79830.93,Branch,Salary via Branch,Pending
+299,ABL-10006,2023-10-28,Credit,Salary,44052.29,123883.22,POS,Salary via POS,Pending
+300,ABL-10006,2020-08-29,Debit,Investment,9155.27,114727.95,Online,Investment via Online,Success
+301,ABL-10006,2023-03-18,Debit,Cash Withdrawal,19402.07,95325.88,Mobile App,Cash Withdrawal via Mobile App,Success
+302,ABL-10006,2025-01-19,Debit,Salary,14003.73,81322.15,Online,Salary via Online,Success
+303,ABL-10006,2023-07-08,Credit,Shopping,47250.39,128572.54,ATM,Shopping via ATM,Failed
+304,ABL-10006,2022-02-09,Credit,Utility Bill,9565.69,138138.23,POS,Utility Bill via POS,Success
+305,ABL-10006,2022-01-05,Credit,Loan Payment,20662.57,158800.8,Mobile App,Loan Payment via Mobile App,Success
+306,ABL-10006,2023-10-25,Debit,Cash Withdrawal,16199.23,142601.57,Branch,Cash Withdrawal via Branch,Success
+307,ABL-10006,2020-10-25,Debit,Utility Bill,10432.65,132168.92,Online,Utility Bill via Online,Success
+308,ABL-10006,2021-06-14,Debit,Transfer,18036.61,114132.31,Branch,Transfer via Branch,Success
+309,ABL-10006,2023-07-01,Debit,Shopping,26634.44,87497.87,POS,Shopping via POS,Success
+310,ABL-10006,2021-11-14,Credit,Investment,38868.74,126366.61,Mobile App,Investment via Mobile App,Success
+311,ABL-10006,2021-01-08,Debit,Cash Withdrawal,6599.75,119766.86,Online,Cash Withdrawal via Online,Success
+312,ABL-10006,2024-05-21,Credit,Insurance,37922.47,157689.33,Branch,Insurance via Branch,Success
+313,ABL-10006,2025-02-09,Debit,Insurance,48930.06,108759.27,Mobile App,Insurance via Mobile App,Success
+314,ABL-10006,2023-01-07,Debit,Salary,49851.08,58908.19,ATM,Salary via ATM,Success
+315,ABL-10006,2023-01-15,Debit,Cash Withdrawal,25145.64,33762.55,POS,Cash Withdrawal via POS,Success
+316,ABL-10006,2022-10-26,Credit,Utility Bill,22127.95,55890.5,ATM,Utility Bill via ATM,Success
+317,ABL-10006,2025-01-09,Credit,Loan Payment,27382.98,83273.48,Online,Loan Payment via Online,Success
+318,ABL-10006,2022-10-26,Debit,Transfer,46655.14,36618.34,Branch,Transfer via Branch,Success
+319,ABL-10006,2023-02-21,Debit,Salary,40055.26,0.0,POS,Salary via POS,Success
+320,ABL-10006,2024-04-27,Debit,Utility Bill,30196.7,0.0,POS,Utility Bill via POS,Failed
+321,ABL-10006,2022-12-11,Credit,Shopping,6576.04,6576.04,ATM,Shopping via ATM,Success
+322,ABL-10006,2023-07-28,Credit,Transfer,35949.54,42525.58,Mobile App,Transfer via Mobile App,Success
+323,ABL-10006,2021-12-16,Debit,Shopping,14855.28,27670.3,Branch,Shopping via Branch,Success
+324,ABL-10006,2024-09-24,Credit,Utility Bill,13117.59,40787.89,Online,Utility Bill via Online,Success
+325,ABL-10006,2020-10-14,Credit,Salary,10653.99,51441.88,Branch,Salary via Branch,Success
+326,ABL-10006,2021-03-21,Credit,Insurance,41489.9,92931.78,Mobile App,Insurance via Mobile App,Success
+327,ABL-10006,2024-02-07,Debit,Shopping,25949.26,66982.52,Branch,Shopping via Branch,Success
+328,ABL-10006,2022-09-01,Credit,Salary,2066.53,69049.05,Online,Salary via Online,Success
+329,ABL-10006,2022-08-24,Credit,Investment,46112.69,115161.74,POS,Investment via POS,Success
+330,ABL-10006,2021-05-24,Debit,Loan Payment,11479.44,103682.3,Online,Loan Payment via Online,Success
+331,ABL-10006,2024-01-29,Credit,Utility Bill,28833.77,132516.07,POS,Utility Bill via POS,Success
+332,ABL-10006,2020-10-04,Credit,Cash Withdrawal,11619.11,144135.18,POS,Cash Withdrawal via POS,Success
+333,ABL-10006,2020-07-19,Debit,Salary,44209.37,99925.81,Mobile App,Salary via Mobile App,Success
+334,ABL-10006,2025-01-15,Debit,Transfer,19767.29,80158.52,Mobile App,Transfer via Mobile App,Success
+335,ABL-10006,2022-12-27,Debit,Investment,5656.57,74501.95,Online,Investment via Online,Success
+336,ABL-10006,2022-03-07,Debit,Insurance,34387.97,40113.98,ATM,Insurance via ATM,Success
+337,ABL-10007,2026-09-16,Credit,Utility Bill,34468.58,273111.6,Mobile App,Utility Bill via Mobile App,Success
+338,ABL-10007,2023-07-26,Debit,Loan Payment,1955.83,271155.77,POS,Loan Payment via POS,Success
+339,ABL-10007,2024-10-03,Debit,Shopping,34798.58,236357.19,Mobile App,Shopping via Mobile App,Success
+340,ABL-10007,2022-04-20,Debit,Salary,37201.87,199155.32,Online,Salary via Online,Pending
+341,ABL-10007,2025-10-27,Credit,Cash Withdrawal,18199.71,217355.03,POS,Cash Withdrawal via POS,Success
+342,ABL-10007,2023-02-21,Debit,Salary,46002.01,171353.02,ATM,Salary via ATM,Success
+343,ABL-10007,2022-03-23,Debit,Transfer,48024.59,123328.43,Mobile App,Transfer via Mobile App,Failed
+344,ABL-10007,2022-09-26,Credit,Salary,3787.95,127116.38,Branch,Salary via Branch,Pending
+345,ABL-10007,2023-01-17,Credit,Investment,16648.29,143764.67,Mobile App,Investment via Mobile App,Pending
+346,ABL-10007,2024-02-04,Debit,Salary,21578.33,122186.34,Mobile App,Salary via Mobile App,Success
+347,ABL-10007,2023-02-06,Credit,Cash Withdrawal,32266.36,154452.7,ATM,Cash Withdrawal via ATM,Success
+348,ABL-10007,2024-12-09,Credit,Shopping,35946.41,190399.11,ATM,Shopping via ATM,Success
+349,ABL-10007,2025-04-10,Debit,Shopping,5382.49,185016.62,Branch,Shopping via Branch,Success
+350,ABL-10007,2024-03-06,Debit,Investment,28663.9,156352.72,POS,Investment via POS,Success
+351,ABL-10007,2025-01-02,Credit,Shopping,1260.4,157613.12,Mobile App,Shopping via Mobile App,Success
+352,ABL-10007,2025-07-28,Credit,Cash Withdrawal,9359.53,166972.65,Online,Cash Withdrawal via Online,Success
+353,ABL-10007,2024-08-14,Debit,Utility Bill,28390.26,138582.39,Mobile App,Utility Bill via Mobile App,Success
+354,ABL-10007,2022-11-21,Credit,Transfer,42465.58,181047.97,POS,Transfer via POS,Success
+355,ABL-10007,2025-06-16,Debit,Salary,39295.98,141751.99,POS,Salary via POS,Success
+356,ABL-10007,2026-07-18,Credit,Cash Withdrawal,22609.58,164361.57,POS,Cash Withdrawal via POS,Success
+357,ABL-10007,2024-12-09,Debit,Investment,37041.8,127319.77,Mobile App,Investment via Mobile App,Success
+358,ABL-10007,2026-04-25,Debit,Salary,6743.46,120576.31,ATM,Salary via ATM,Success
+359,ABL-10007,2027-01-05,Debit,Salary,35583.3,84993.01,POS,Salary via POS,Success
+360,ABL-10008,2023-06-06,Credit,Transfer,4458.74,308448.89,Online,Transfer via Online,Success
+361,ABL-10008,2026-06-19,Credit,Insurance,38428.57,346877.46,Mobile App,Insurance via Mobile App,Success
+362,ABL-10008,2022-01-04,Credit,Insurance,32781.25,379658.71,POS,Insurance via POS,Success
+363,ABL-10008,2024-01-27,Debit,Loan Payment,18985.06,360673.65,Online,Loan Payment via Online,Success
+364,ABL-10008,2023-08-05,Credit,Transfer,25834.41,386508.06,Branch,Transfer via Branch,Success
+365,ABL-10008,2021-11-06,Debit,Shopping,48637.46,337870.6,POS,Shopping via POS,Success
+366,ABL-10008,2025-05-08,Debit,Cash Withdrawal,14133.98,323736.62,Mobile App,Cash Withdrawal via Mobile App,Success
+367,ABL-10008,2025-06-26,Debit,Shopping,49768.65,273967.97,POS,Shopping via POS,Success
+368,ABL-10008,2024-03-29,Debit,Insurance,21270.45,252697.52,Branch,Insurance via Branch,Success
+369,ABL-10008,2023-03-03,Debit,Utility Bill,6015.05,246682.47,ATM,Utility Bill via ATM,Success
+370,ABL-10008,2023-03-31,Credit,Loan Payment,3719.02,250401.49,Mobile App,Loan Payment via Mobile App,Success
+371,ABL-10008,2026-01-06,Debit,Insurance,27127.22,223274.27,Mobile App,Insurance via Mobile App,Success
+372,ABL-10008,2023-07-19,Credit,Salary,14264.66,237538.93,Branch,Salary via Branch,Success
+373,ABL-10008,2025-08-18,Debit,Shopping,8237.19,229301.74,POS,Shopping via POS,Success
+374,ABL-10008,2022-06-21,Debit,Insurance,40803.49,188498.25,Mobile App,Insurance via Mobile App,Success
+375,ABL-10008,2026-01-14,Credit,Utility Bill,18420.74,206918.99,Branch,Utility Bill via Branch,Success
+376,ABL-10008,2022-04-27,Debit,Transfer,44737.44,162181.55,Online,Transfer via Online,Success
+377,ABL-10008,2025-12-29,Debit,Cash Withdrawal,7207.55,154974.0,Online,Cash Withdrawal via Online,Success
+378,ABL-10008,2026-07-09,Debit,Salary,32523.59,122450.41,ATM,Salary via ATM,Success
+379,ABL-10008,2023-05-19,Debit,Loan Payment,33954.19,88496.22,Branch,Loan Payment via Branch,Success
+380,ABL-10008,2022-10-30,Credit,Shopping,42035.89,130532.11,Online,Shopping via Online,Success
+381,ABL-10008,2026-09-10,Credit,Transfer,13706.06,144238.17,Mobile App,Transfer via Mobile App,Success
+382,ABL-10008,2025-04-07,Credit,Utility Bill,44051.53,188289.7,Branch,Utility Bill via Branch,Pending
+383,ABL-10008,2022-04-15,Credit,Cash Withdrawal,32202.03,220491.73,Branch,Cash Withdrawal via Branch,Success
+384,ABL-10008,2022-01-12,Debit,Transfer,25462.47,195029.26,Online,Transfer via Online,Success
+385,ABL-10008,2023-05-09,Debit,Insurance,15038.23,179991.03,POS,Insurance via POS,Success
+386,ABL-10008,2022-01-29,Credit,Transfer,4052.91,184043.94,Mobile App,Transfer via Mobile App,Success
+387,ABL-10008,2024-11-24,Credit,Investment,6461.39,190505.33,Mobile App,Investment via Mobile App,Success
+388,ABL-10008,2024-12-25,Debit,Utility Bill,18734.6,171770.73,ATM,Utility Bill via ATM,Success
+389,ABL-10008,2025-09-09,Credit,Cash Withdrawal,4683.93,176454.66,Branch,Cash Withdrawal via Branch,Success
+390,ABL-10008,2025-04-04,Debit,Cash Withdrawal,26519.82,149934.84,POS,Cash Withdrawal via POS,Success
+391,ABL-10008,2025-07-12,Debit,Salary,38594.74,111340.1,ATM,Salary via ATM,Success
+392,ABL-10008,2023-03-08,Debit,Loan Payment,16126.95,95213.15,Mobile App,Loan Payment via Mobile App,Success
+393,ABL-10008,2022-03-25,Credit,Transfer,21143.37,116356.52,Mobile App,Transfer via Mobile App,Failed
+394,ABL-10009,2022-01-21,Debit,Shopping,12663.12,310328.71,POS,Shopping via POS,Success
+395,ABL-10009,2018-06-07,Credit,Loan Payment,13002.72,323331.43,Online,Loan Payment via Online,Success
+396,ABL-10009,2022-07-16,Credit,Shopping,4315.96,327647.39,ATM,Shopping via ATM,Failed
+397,ABL-10009,2021-02-15,Credit,Insurance,24273.08,351920.47,Online,Insurance via Online,Success
+398,ABL-10009,2019-12-14,Credit,Loan Payment,20991.61,372912.08,Online,Loan Payment via Online,Success
+399,ABL-10009,2020-10-28,Debit,Investment,35668.8,337243.28,ATM,Investment via ATM,Success
+400,ABL-10009,2019-04-29,Debit,Transfer,34569.45,302673.83,Mobile App,Transfer via Mobile App,Success
+401,ABL-10009,2018-12-14,Credit,Salary,12691.12,315364.95,Mobile App,Salary via Mobile App,Failed
+402,ABL-10009,2021-03-28,Debit,Loan Payment,21653.88,293711.07,ATM,Loan Payment via ATM,Success
+403,ABL-10009,2019-12-01,Credit,Salary,8765.68,302476.75,ATM,Salary via ATM,Success
+404,ABL-10009,2022-06-09,Debit,Cash Withdrawal,32869.07,269607.68,ATM,Cash Withdrawal via ATM,Success
+405,ABL-10009,2018-05-17,Debit,Transfer,21123.73,248483.95,POS,Transfer via POS,Success
+406,ABL-10009,2021-05-08,Debit,Cash Withdrawal,15135.51,233348.44,Branch,Cash Withdrawal via Branch,Success
+407,ABL-10009,2022-11-02,Credit,Salary,37690.43,271038.87,Online,Salary via Online,Success
+408,ABL-10009,2018-11-01,Credit,Shopping,6733.9,277772.77,ATM,Shopping via ATM,Success
+409,ABL-10009,2020-07-14,Credit,Loan Payment,23595.47,301368.24,Mobile App,Loan Payment via Mobile App,Pending
+410,ABL-10009,2020-02-19,Debit,Loan Payment,19335.22,282033.02,Branch,Loan Payment via Branch,Success
+411,ABL-10009,2022-09-24,Credit,Investment,46090.43,328123.45,Online,Investment via Online,Success
+412,ABL-10009,2020-07-04,Credit,Utility Bill,44884.62,373008.07,Mobile App,Utility Bill via Mobile App,Success
+413,ABL-10009,2022-07-25,Debit,Shopping,18868.13,354139.94,POS,Shopping via POS,Success
+414,ABL-10009,2020-01-23,Credit,Cash Withdrawal,32844.25,386984.19,POS,Cash Withdrawal via POS,Success
+415,ABL-10009,2020-07-09,Debit,Investment,11088.13,375896.06,Online,Investment via Online,Success
+416,ABL-10009,2019-10-25,Debit,Salary,29181.34,346714.72,ATM,Salary via ATM,Success
+417,ABL-10009,2020-06-02,Debit,Investment,35096.48,311618.24,Online,Investment via Online,Failed
+418,ABL-10009,2022-02-28,Credit,Transfer,4727.44,316345.68,Online,Transfer via Online,Pending
+419,ABL-10009,2022-09-25,Debit,Salary,37573.34,278772.34,Branch,Salary via Branch,Success
+420,ABL-10009,2019-01-30,Debit,Shopping,37536.37,241235.97,ATM,Shopping via ATM,Success
+421,ABL-10009,2019-06-13,Credit,Loan Payment,23421.72,264657.69,Online,Loan Payment via Online,Success
+422,ABL-10009,2019-05-17,Credit,Cash Withdrawal,22537.41,287195.1,Mobile App,Cash Withdrawal via Mobile App,Success
+423,ABL-10009,2022-05-25,Credit,Cash Withdrawal,11057.47,298252.57,POS,Cash Withdrawal via POS,Success
+424,ABL-10009,2019-11-13,Debit,Cash Withdrawal,40819.82,257432.75,Branch,Cash Withdrawal via Branch,Success
+425,ABL-10009,2018-11-08,Debit,Loan Payment,17345.03,240087.72,Branch,Loan Payment via Branch,Success
+426,ABL-10010,2023-01-20,Debit,Transfer,38476.93,30450.89,Branch,Transfer via Branch,Success
+427,ABL-10010,2027-03-25,Debit,Cash Withdrawal,35870.94,0.0,Mobile App,Cash Withdrawal via Mobile App,Success
+428,ABL-10010,2026-09-27,Debit,Shopping,48431.92,0.0,Mobile App,Shopping via Mobile App,Success
+429,ABL-10010,2026-11-30,Debit,Salary,39394.5,0.0,ATM,Salary via ATM,Success
+430,ABL-10010,2026-07-06,Debit,Cash Withdrawal,48231.3,0.0,Online,Cash Withdrawal via Online,Success
+431,ABL-10010,2023-03-19,Credit,Utility Bill,48732.45,48732.45,Branch,Utility Bill via Branch,Success
+432,ABL-10010,2026-01-17,Debit,Investment,15034.59,33697.86,Branch,Investment via Branch,Success
+433,ABL-10010,2026-05-28,Credit,Shopping,45439.94,79137.8,Mobile App,Shopping via Mobile App,Success
+434,ABL-10010,2023-11-14,Debit,Cash Withdrawal,41728.41,37409.39,Mobile App,Cash Withdrawal via Mobile App,Success
+435,ABL-10010,2025-07-10,Credit,Insurance,46521.92,83931.31,ATM,Insurance via ATM,Pending
+436,ABL-10010,2025-11-17,Credit,Transfer,19263.77,103195.08,ATM,Transfer via ATM,Failed
+437,ABL-10010,2025-06-26,Debit,Shopping,23599.14,79595.94,Mobile App,Shopping via Mobile App,Success
+438,ABL-10010,2022-09-12,Debit,Investment,19961.84,59634.1,POS,Investment via POS,Success
+439,ABL-10010,2022-10-01,Debit,Utility Bill,27915.68,31718.42,Branch,Utility Bill via Branch,Success
+440,ABL-10010,2025-11-13,Debit,Salary,15477.32,16241.1,Mobile App,Salary via Mobile App,Success
+441,ABL-10010,2025-01-13,Debit,Shopping,46327.58,0.0,Online,Shopping via Online,Success
+442,ABL-10010,2026-03-03,Credit,Loan Payment,35120.89,35120.89,Online,Loan Payment via Online,Success
+443,ABL-10010,2027-02-22,Debit,Utility Bill,6723.29,28397.6,POS,Utility Bill via POS,Success
+444,ABL-10010,2026-10-29,Debit,Shopping,30517.57,0.0,POS,Shopping via POS,Success
+445,ABL-10010,2022-10-20,Debit,Insurance,6672.03,0.0,Online,Insurance via Online,Success
+446,ABL-10010,2026-11-08,Credit,Cash Withdrawal,40699.77,40699.77,Online,Cash Withdrawal via Online,Success
+447,ABL-10010,2023-12-10,Credit,Investment,17721.73,58421.5,POS,Investment via POS,Success
+448,ABL-10010,2023-08-22,Debit,Transfer,6864.82,51556.68,Mobile App,Transfer via Mobile App,Success
+449,ABL-10010,2027-05-29,Credit,Cash Withdrawal,24461.41,76018.09,ATM,Cash Withdrawal via ATM,Success
+450,ABL-10010,2024-04-26,Credit,Loan Payment,14994.44,91012.53,ATM,Loan Payment via ATM,Failed
+451,ABL-10010,2025-10-11,Debit,Utility Bill,3648.13,87364.4,Mobile App,Utility Bill via Mobile App,Success
+452,ABL-10010,2026-09-20,Debit,Investment,14758.81,72605.59,ATM,Investment via ATM,Failed
+453,ABL-10010,2023-10-27,Credit,Utility Bill,813.19,73418.78,POS,Utility Bill via POS,Success
+454,ABL-10010,2023-06-28,Debit,Cash Withdrawal,22974.26,50444.52,POS,Cash Withdrawal via POS,Failed
+455,ABL-10010,2026-07-02,Debit,Transfer,10509.08,39935.44,Mobile App,Transfer via Mobile App,Success
+456,ABL-10010,2023-02-06,Debit,Transfer,8034.59,31900.85,POS,Transfer via POS,Success
+457,ABL-10010,2024-04-04,Debit,Shopping,25773.66,6127.19,Mobile App,Shopping via Mobile App,Success
+458,ABL-10010,2025-09-29,Debit,Loan Payment,33344.89,0.0,Branch,Loan Payment via Branch,Success
+459,ABL-10010,2024-10-23,Credit,Transfer,23659.41,23659.41,Branch,Transfer via Branch,Success
+460,ABL-10010,2025-03-04,Debit,Loan Payment,15324.5,8334.91,Branch,Loan Payment via Branch,Success
+461,ABL-10010,2023-06-12,Debit,Insurance,39072.56,0.0,Mobile App,Insurance via Mobile App,Success
+462,ABL-10010,2022-08-12,Debit,Investment,32548.35,0.0,ATM,Investment via ATM,Success
+463,ABL-10011,2020-11-12,Debit,Utility Bill,5043.31,242698.5,Online,Utility Bill via Online,Success
+464,ABL-10011,2025-01-13,Debit,Shopping,47508.89,195189.61,Branch,Shopping via Branch,Success
+465,ABL-10011,2021-12-03,Debit,Insurance,5513.58,189676.03,ATM,Insurance via ATM,Success
+466,ABL-10011,2021-04-26,Debit,Loan Payment,28128.14,161547.89,Branch,Loan Payment via Branch,Success
+467,ABL-10011,2024-12-30,Credit,Cash Withdrawal,9818.21,171366.1,Branch,Cash Withdrawal via Branch,Success
+468,ABL-10011,2021-02-05,Debit,Salary,47436.09,123930.01,ATM,Salary via ATM,Success
+469,ABL-10011,2024-11-12,Debit,Shopping,40662.52,83267.49,ATM,Shopping via ATM,Success
+470,ABL-10011,2021-03-12,Debit,Investment,20697.27,62570.22,ATM,Investment via ATM,Success
+471,ABL-10011,2023-07-05,Credit,Insurance,30565.4,93135.62,Online,Insurance via Online,Success
+472,ABL-10011,2024-09-26,Credit,Salary,17270.52,110406.14,Online,Salary via Online,Success
+473,ABL-10011,2023-01-07,Debit,Loan Payment,17608.81,92797.33,Online,Loan Payment via Online,Success
+474,ABL-10011,2023-09-22,Credit,Utility Bill,10199.77,102997.1,Mobile App,Utility Bill via Mobile App,Success
+475,ABL-10011,2023-02-02,Debit,Transfer,15857.86,87139.24,Online,Transfer via Online,Success
+476,ABL-10011,2021-06-02,Credit,Insurance,21406.18,108545.42,Online,Insurance via Online,Success
+477,ABL-10011,2023-10-02,Debit,Shopping,18812.0,89733.42,POS,Shopping via POS,Success
+478,ABL-10011,2021-09-15,Debit,Transfer,42596.68,47136.74,ATM,Transfer via ATM,Success
+479,ABL-10011,2024-08-05,Debit,Utility Bill,9340.2,37796.54,ATM,Utility Bill via ATM,Success
+480,ABL-10011,2022-04-15,Credit,Utility Bill,24129.34,61925.88,ATM,Utility Bill via ATM,Success
+481,ABL-10011,2024-05-08,Debit,Loan Payment,29559.82,32366.06,Branch,Loan Payment via Branch,Success
+482,ABL-10011,2024-10-19,Debit,Cash Withdrawal,21660.36,10705.7,ATM,Cash Withdrawal via ATM,Success
+483,ABL-10011,2023-12-26,Credit,Insurance,38558.87,49264.57,Branch,Insurance via Branch,Success
+484,ABL-10011,2022-10-03,Debit,Cash Withdrawal,19968.04,29296.53,ATM,Cash Withdrawal via ATM,Success
+485,ABL-10011,2023-11-23,Credit,Salary,41912.19,71208.72,POS,Salary via POS,Success
+486,ABL-10011,2024-08-13,Debit,Cash Withdrawal,11130.58,60078.14,Branch,Cash Withdrawal via Branch,Success
+487,ABL-10011,2024-09-02,Credit,Loan Payment,6471.96,66550.1,Mobile App,Loan Payment via Mobile App,Success
+488,ABL-10011,2022-02-10,Debit,Loan Payment,49770.13,16779.97,Mobile App,Loan Payment via Mobile App,Success
+489,ABL-10011,2020-10-02,Credit,Utility Bill,42709.0,59488.97,POS,Utility Bill via POS,Success
+490,ABL-10011,2022-02-12,Debit,Salary,41332.74,18156.23,Online,Salary via Online,Success
+491,ABL-10011,2025-03-18,Credit,Salary,28893.66,47049.89,POS,Salary via POS,Success
+492,ABL-10011,2022-09-20,Credit,Investment,21799.73,68849.62,ATM,Investment via ATM,Success
+493,ABL-10011,2023-11-14,Debit,Cash Withdrawal,7407.92,61441.7,Online,Cash Withdrawal via Online,Success
+494,ABL-10011,2025-03-21,Credit,Loan Payment,12559.54,74001.24,ATM,Loan Payment via ATM,Success
+495,ABL-10011,2022-01-06,Debit,Shopping,29907.23,44094.01,Online,Shopping via Online,Success
+496,ABL-10011,2024-05-21,Credit,Investment,27758.01,71852.02,Online,Investment via Online,Pending
+497,ABL-10011,2022-12-08,Debit,Utility Bill,1603.15,70248.87,ATM,Utility Bill via ATM,Success
+498,ABL-10011,2025-05-26,Credit,Investment,22336.64,92585.51,Online,Investment via Online,Success
+499,ABL-10011,2023-03-19,Credit,Loan Payment,12367.26,104952.77,POS,Loan Payment via POS,Success
+500,ABL-10011,2025-05-18,Debit,Transfer,6060.53,98892.24,POS,Transfer via POS,Success
+501,ABL-10011,2022-09-16,Credit,Investment,27069.23,125961.47,Mobile App,Investment via Mobile App,Success
+502,ABL-10011,2025-02-27,Debit,Shopping,47109.29,78852.18,ATM,Shopping via ATM,Success
+503,ABL-10011,2021-04-21,Debit,Investment,36916.98,41935.2,ATM,Investment via ATM,Success
+504,ABL-10011,2024-02-19,Debit,Insurance,28554.24,13380.96,Branch,Insurance via Branch,Success
+505,ABL-10011,2025-04-07,Debit,Shopping,14641.06,0.0,ATM,Shopping via ATM,Success
+506,ABL-10011,2023-04-26,Credit,Loan Payment,30722.93,30722.93,Branch,Loan Payment via Branch,Success
+507,ABL-10011,2021-01-01,Debit,Utility Bill,39269.83,0.0,ATM,Utility Bill via ATM,Success
+508,ABL-10011,2023-04-22,Credit,Salary,13618.16,13618.16,ATM,Salary via ATM,Success
+509,ABL-10011,2024-02-12,Credit,Utility Bill,23692.72,37310.88,Branch,Utility Bill via Branch,Success
+510,ABL-10011,2022-03-11,Debit,Insurance,713.96,36596.92,Online,Insurance via Online,Success
+511,ABL-10011,2024-11-30,Debit,Transfer,20760.92,15836.0,POS,Transfer via POS,Success
+512,ABL-10011,2021-12-10,Debit,Cash Withdrawal,45402.9,0.0,ATM,Cash Withdrawal via ATM,Success
+513,ABL-10012,2022-11-14,Credit,Utility Bill,11682.03,338864.98,POS,Utility Bill via POS,Success
+514,ABL-10012,2021-11-15,Credit,Salary,9950.97,348815.95,ATM,Salary via ATM,Success
+515,ABL-10012,2021-01-15,Credit,Salary,42239.34,391055.29,Online,Salary via Online,Success
+516,ABL-10012,2021-06-06,Credit,Cash Withdrawal,25042.84,416098.13,ATM,Cash Withdrawal via ATM,Success
+517,ABL-10012,2020-12-15,Credit,Cash Withdrawal,14569.5,430667.63,ATM,Cash Withdrawal via ATM,Success
+518,ABL-10012,2020-06-22,Credit,Transfer,7500.49,438168.12,Branch,Transfer via Branch,Success
+519,ABL-10012,2020-08-14,Credit,Salary,23463.03,461631.15,POS,Salary via POS,Success
+520,ABL-10012,2019-09-01,Debit,Salary,18023.37,443607.78,Mobile App,Salary via Mobile App,Success
+521,ABL-10012,2023-01-04,Debit,Utility Bill,9708.27,433899.51,Mobile App,Utility Bill via Mobile App,Success
+522,ABL-10012,2022-08-13,Credit,Investment,19569.75,453469.26,Branch,Investment via Branch,Success
+523,ABL-10012,2021-07-06,Debit,Cash Withdrawal,13885.08,439584.18,Mobile App,Cash Withdrawal via Mobile App,Success
+524,ABL-10012,2022-11-25,Debit,Loan Payment,14904.91,424679.27,Branch,Loan Payment via Branch,Success
+525,ABL-10012,2021-03-06,Debit,Salary,10507.47,414171.8,Branch,Salary via Branch,Success
+526,ABL-10012,2023-03-13,Debit,Investment,38175.34,375996.46,Branch,Investment via Branch,Success
+527,ABL-10012,2020-08-29,Debit,Investment,40005.31,335991.15,POS,Investment via POS,Success
+528,ABL-10012,2020-03-20,Credit,Loan Payment,42612.27,378603.42,Branch,Loan Payment via Branch,Success
+529,ABL-10012,2020-04-08,Credit,Salary,36369.14,414972.56,Online,Salary via Online,Success
+530,ABL-10012,2019-10-01,Credit,Utility Bill,24281.46,439254.02,Online,Utility Bill via Online,Success
+531,ABL-10012,2019-03-01,Debit,Utility Bill,33442.66,405811.36,ATM,Utility Bill via ATM,Success
+532,ABL-10012,2023-02-01,Debit,Insurance,14345.56,391465.8,Mobile App,Insurance via Mobile App,Failed
+533,ABL-10012,2022-08-19,Credit,Loan Payment,21836.43,413302.23,ATM,Loan Payment via ATM,Success
+534,ABL-10012,2019-12-12,Credit,Cash Withdrawal,23676.42,436978.65,Online,Cash Withdrawal via Online,Success
+535,ABL-10012,2022-01-25,Debit,Salary,30928.06,406050.59,ATM,Salary via ATM,Success
+536,ABL-10012,2022-01-15,Debit,Cash Withdrawal,48956.88,357093.71,Mobile App,Cash Withdrawal via Mobile App,Success
+537,ABL-10012,2022-11-21,Credit,Insurance,1106.75,358200.46,Branch,Insurance via Branch,Success
+538,ABL-10012,2022-08-05,Debit,Transfer,8195.11,350005.35,Mobile App,Transfer via Mobile App,Success
+539,ABL-10012,2022-04-02,Credit,Investment,2892.46,352897.81,ATM,Investment via ATM,Success
+540,ABL-10012,2021-01-17,Credit,Cash Withdrawal,32664.12,385561.93,POS,Cash Withdrawal via POS,Success
+541,ABL-10012,2019-09-19,Debit,Salary,31068.55,354493.38,Mobile App,Salary via Mobile App,Failed
+542,ABL-10012,2020-01-07,Debit,Transfer,863.96,353629.42,ATM,Transfer via ATM,Success
+543,ABL-10012,2021-10-27,Credit,Salary,15039.31,368668.73,ATM,Salary via ATM,Success
+544,ABL-10012,2021-09-09,Credit,Shopping,13805.46,382474.19,POS,Shopping via POS,Success
+545,ABL-10012,2019-01-14,Credit,Salary,8089.37,390563.56,Mobile App,Salary via Mobile App,Success
+546,ABL-10012,2021-11-08,Debit,Loan Payment,42564.28,347999.28,Branch,Loan Payment via Branch,Success
+547,ABL-10012,2021-05-10,Credit,Utility Bill,43219.69,391218.97,Online,Utility Bill via Online,Success
+548,ABL-10012,2018-12-03,Debit,Transfer,21156.22,370062.75,POS,Transfer via POS,Success
+549,ABL-10012,2019-02-05,Debit,Investment,45017.67,325045.08,Online,Investment via Online,Success
+550,ABL-10012,2019-07-12,Debit,Insurance,45635.56,279409.52,Mobile App,Insurance via Mobile App,Success
+551,ABL-10012,2020-10-08,Credit,Loan Payment,49496.51,328906.03,Online,Loan Payment via Online,Failed
+552,ABL-10012,2022-01-02,Debit,Transfer,46575.02,282331.01,POS,Transfer via POS,Success
+553,ABL-10012,2020-05-10,Credit,Transfer,33302.19,315633.2,Branch,Transfer via Branch,Success
+554,ABL-10012,2019-04-11,Debit,Shopping,38651.9,276981.3,ATM,Shopping via ATM,Success
+555,ABL-10012,2021-10-08,Credit,Salary,37459.61,314440.91,Branch,Salary via Branch,Success
+556,ABL-10012,2019-07-01,Credit,Salary,2112.06,316552.97,Online,Salary via Online,Success
+557,ABL-10012,2022-10-31,Credit,Transfer,38974.82,355527.79,Branch,Transfer via Branch,Success
+558,ABL-10013,2020-06-12,Debit,Cash Withdrawal,6896.56,26068.92,Online,Cash Withdrawal via Online,Success
+559,ABL-10013,2021-02-22,Credit,Utility Bill,22319.66,48388.58,Mobile App,Utility Bill via Mobile App,Success
+560,ABL-10013,2024-05-21,Credit,Utility Bill,40202.68,88591.26,POS,Utility Bill via POS,Success
+561,ABL-10013,2022-10-17,Credit,Salary,25405.59,113996.85,POS,Salary via POS,Pending
+562,ABL-10013,2019-12-22,Credit,Utility Bill,18988.01,132984.86,Mobile App,Utility Bill via Mobile App,Success
+563,ABL-10013,2023-02-07,Debit,Utility Bill,42933.8,90051.06,Online,Utility Bill via Online,Success
+564,ABL-10013,2023-09-08,Debit,Cash Withdrawal,15156.45,74894.61,Branch,Cash Withdrawal via Branch,Success
+565,ABL-10013,2021-09-23,Credit,Cash Withdrawal,21411.78,96306.39,Branch,Cash Withdrawal via Branch,Success
+566,ABL-10013,2023-02-16,Debit,Shopping,3446.23,92860.16,POS,Shopping via POS,Success
+567,ABL-10013,2021-09-06,Debit,Cash Withdrawal,12776.82,80083.34,Mobile App,Cash Withdrawal via Mobile App,Success
+568,ABL-10013,2020-08-12,Credit,Investment,41659.69,121743.03,POS,Investment via POS,Success
+569,ABL-10013,2021-02-28,Debit,Investment,19569.2,102173.83,ATM,Investment via ATM,Success
+570,ABL-10013,2023-12-31,Debit,Insurance,20497.47,81676.36,ATM,Insurance via ATM,Success
+571,ABL-10013,2019-12-23,Debit,Cash Withdrawal,39438.07,42238.29,POS,Cash Withdrawal via POS,Success
+572,ABL-10013,2023-10-23,Debit,Loan Payment,43400.92,0.0,ATM,Loan Payment via ATM,Pending
+573,ABL-10013,2021-06-25,Debit,Shopping,11627.26,0.0,POS,Shopping via POS,Success
+574,ABL-10013,2022-11-28,Debit,Transfer,29398.48,0.0,ATM,Transfer via ATM,Success
+575,ABL-10013,2023-06-04,Debit,Insurance,38518.91,0.0,Online,Insurance via Online,Success
+576,ABL-10013,2021-05-02,Credit,Utility Bill,1598.9,1598.9,Online,Utility Bill via Online,Failed
+577,ABL-10013,2024-05-06,Credit,Cash Withdrawal,34530.8,36129.7,POS,Cash Withdrawal via POS,Success
+578,ABL-10013,2024-06-07,Debit,Shopping,2610.63,33519.07,POS,Shopping via POS,Success
+579,ABL-10013,2022-05-09,Debit,Shopping,33776.64,0.0,Online,Shopping via Online,Success
+580,ABL-10013,2021-10-21,Credit,Investment,12411.75,12411.75,Online,Investment via Online,Success
+581,ABL-10013,2020-08-25,Credit,Transfer,19394.56,31806.31,ATM,Transfer via ATM,Success
+582,ABL-10013,2021-05-22,Credit,Loan Payment,49773.09,81579.4,Online,Loan Payment via Online,Pending
+583,ABL-10013,2023-03-04,Debit,Investment,35534.06,46045.34,Online,Investment via Online,Success
+584,ABL-10013,2024-09-06,Debit,Insurance,30533.71,15511.63,Online,Insurance via Online,Success
+585,ABL-10013,2021-02-03,Debit,Cash Withdrawal,40099.04,0.0,Mobile App,Cash Withdrawal via Mobile App,Failed
+586,ABL-10013,2021-06-23,Debit,Shopping,30797.45,0.0,ATM,Shopping via ATM,Success
+587,ABL-10013,2022-09-13,Credit,Shopping,36069.96,36069.96,Branch,Shopping via Branch,Success
+588,ABL-10013,2020-05-23,Credit,Salary,45010.11,81080.07,Branch,Salary via Branch,Pending
+589,ABL-10014,2022-02-13,Credit,Salary,17041.54,79878.04,POS,Salary via POS,Success
+590,ABL-10014,2019-03-06,Debit,Cash Withdrawal,48840.79,31037.25,POS,Cash Withdrawal via POS,Success
+591,ABL-10014,2021-01-22,Credit,Utility Bill,22411.42,53448.67,Online,Utility Bill via Online,Success
+592,ABL-10014,2019-02-25,Debit,Cash Withdrawal,44990.61,8458.06,ATM,Cash Withdrawal via ATM,Pending
+593,ABL-10014,2019-08-19,Debit,Transfer,36617.43,0.0,Mobile App,Transfer via Mobile App,Success
+594,ABL-10014,2022-05-18,Credit,Cash Withdrawal,29587.49,29587.49,POS,Cash Withdrawal via POS,Success
+595,ABL-10014,2023-02-12,Debit,Utility Bill,34607.74,0.0,ATM,Utility Bill via ATM,Success
+596,ABL-10014,2020-01-21,Debit,Salary,21542.34,0.0,ATM,Salary via ATM,Success
+597,ABL-10014,2020-04-13,Credit,Shopping,13722.49,13722.49,Branch,Shopping via Branch,Success
+598,ABL-10014,2019-07-24,Credit,Transfer,25030.92,38753.41,ATM,Transfer via ATM,Pending
+599,ABL-10014,2022-05-25,Credit,Utility Bill,13876.39,52629.8,POS,Utility Bill via POS,Success
+600,ABL-10014,2019-10-23,Credit,Salary,10366.27,62996.07,Online,Salary via Online,Success
+601,ABL-10014,2018-07-23,Debit,Cash Withdrawal,24758.21,38237.86,POS,Cash Withdrawal via POS,Success
+602,ABL-10014,2021-10-24,Debit,Insurance,31530.04,6707.82,POS,Insurance via POS,Success
+603,ABL-10014,2022-11-18,Credit,Shopping,46001.69,52709.51,Branch,Shopping via Branch,Success
+604,ABL-10014,2019-10-27,Credit,Loan Payment,23735.74,76445.25,Mobile App,Loan Payment via Mobile App,Success
+605,ABL-10014,2020-03-11,Credit,Cash Withdrawal,13588.28,90033.53,Mobile App,Cash Withdrawal via Mobile App,Success
+606,ABL-10014,2022-11-28,Credit,Cash Withdrawal,15113.51,105147.04,ATM,Cash Withdrawal via ATM,Success
+607,ABL-10014,2019-03-04,Credit,Insurance,46661.41,151808.45,ATM,Insurance via ATM,Success
+608,ABL-10014,2018-03-22,Credit,Shopping,28337.54,180145.99,Online,Shopping via Online,Success
+609,ABL-10014,2019-05-09,Debit,Cash Withdrawal,33413.43,146732.56,Mobile App,Cash Withdrawal via Mobile App,Success
+610,ABL-10014,2021-11-18,Credit,Utility Bill,2077.99,148810.55,POS,Utility Bill via POS,Failed
+611,ABL-10014,2022-05-08,Debit,Utility Bill,37768.98,111041.57,Mobile App,Utility Bill via Mobile App,Success
+612,ABL-10014,2018-05-04,Debit,Loan Payment,11857.56,99184.01,Branch,Loan Payment via Branch,Success
+613,ABL-10014,2022-03-25,Credit,Insurance,6537.15,105721.16,Branch,Insurance via Branch,Success
+614,ABL-10014,2022-04-05,Credit,Shopping,21317.21,127038.37,Mobile App,Shopping via Mobile App,Success
+615,ABL-10014,2020-10-08,Debit,Investment,39484.88,87553.49,Online,Investment via Online,Success
+616,ABL-10014,2020-05-29,Debit,Utility Bill,45043.88,42509.61,Online,Utility Bill via Online,Success
+617,ABL-10014,2018-09-13,Debit,Cash Withdrawal,46607.56,0.0,Branch,Cash Withdrawal via Branch,Success
+618,ABL-10014,2018-09-22,Debit,Shopping,14398.84,0.0,POS,Shopping via POS,Success
+619,ABL-10014,2021-10-03,Debit,Transfer,41681.36,0.0,Mobile App,Transfer via Mobile App,Success
+620,ABL-10014,2021-08-08,Debit,Utility Bill,4318.57,0.0,ATM,Utility Bill via ATM,Success
+621,ABL-10014,2022-04-30,Debit,Investment,30600.76,0.0,POS,Investment via POS,Success
+622,ABL-10014,2019-09-20,Debit,Salary,17005.89,0.0,Mobile App,Salary via Mobile App,Success
+623,ABL-10014,2019-08-01,Credit,Utility Bill,44671.51,44671.51,Branch,Utility Bill via Branch,Success
+624,ABL-10014,2019-02-05,Debit,Loan Payment,28418.3,16253.21,Online,Loan Payment via Online,Success
+625,ABL-10014,2019-01-08,Debit,Cash Withdrawal,4574.33,11678.88,Mobile App,Cash Withdrawal via Mobile App,Success
+626,ABL-10014,2019-02-21,Credit,Shopping,11680.72,23359.6,Branch,Shopping via Branch,Pending
+627,ABL-10015,2024-05-09,Debit,Salary,40972.4,36001.38,Online,Salary via Online,Success
+628,ABL-10015,2023-01-21,Debit,Transfer,34601.69,1399.69,Branch,Transfer via Branch,Success
+629,ABL-10015,2022-03-16,Credit,Insurance,23445.63,24845.32,Branch,Insurance via Branch,Success
+630,ABL-10015,2025-04-13,Debit,Cash Withdrawal,31229.81,0.0,Online,Cash Withdrawal via Online,Success
+631,ABL-10015,2025-06-08,Credit,Investment,5424.33,5424.33,ATM,Investment via ATM,Success
+632,ABL-10015,2023-01-04,Debit,Salary,2963.96,2460.37,ATM,Salary via ATM,Pending
+633,ABL-10015,2023-03-02,Debit,Insurance,7976.01,0.0,Branch,Insurance via Branch,Success
+634,ABL-10015,2022-05-30,Credit,Loan Payment,42733.66,42733.66,Online,Loan Payment via Online,Success
+635,ABL-10015,2024-06-24,Credit,Utility Bill,13854.58,56588.24,Branch,Utility Bill via Branch,Pending
+636,ABL-10015,2024-07-18,Debit,Shopping,19272.13,37316.11,POS,Shopping via POS,Success
+637,ABL-10015,2025-10-01,Credit,Salary,47154.14,84470.25,Mobile App,Salary via Mobile App,Success
+638,ABL-10015,2021-12-26,Debit,Salary,48776.17,35694.08,Mobile App,Salary via Mobile App,Success
+639,ABL-10015,2023-11-20,Debit,Transfer,39400.52,0.0,Online,Transfer via Online,Pending
+640,ABL-10015,2022-02-16,Credit,Cash Withdrawal,43111.98,43111.98,ATM,Cash Withdrawal via ATM,Success
+641,ABL-10015,2021-04-30,Credit,Shopping,43975.66,87087.64,Mobile App,Shopping via Mobile App,Success
+642,ABL-10015,2024-05-02,Debit,Shopping,36510.88,50576.76,ATM,Shopping via ATM,Success
+643,ABL-10015,2024-02-11,Debit,Cash Withdrawal,38691.11,11885.65,Branch,Cash Withdrawal via Branch,Success
+644,ABL-10015,2021-08-13,Debit,Transfer,29135.42,0.0,ATM,Transfer via ATM,Success
+645,ABL-10015,2025-11-25,Credit,Loan Payment,47880.81,47880.81,ATM,Loan Payment via ATM,Success
+646,ABL-10015,2025-06-07,Debit,Transfer,26032.97,21847.84,ATM,Transfer via ATM,Success
+647,ABL-10015,2025-09-02,Debit,Shopping,6096.35,15751.49,Online,Shopping via Online,Success
+648,ABL-10015,2022-05-11,Credit,Salary,30207.35,45958.84,ATM,Salary via ATM,Success
+649,ABL-10015,2024-02-05,Credit,Insurance,1450.82,47409.66,Mobile App,Insurance via Mobile App,Failed
+650,ABL-10015,2021-08-13,Debit,Investment,5877.4,41532.26,Online,Investment via Online,Failed
+651,ABL-10015,2024-05-30,Credit,Utility Bill,18667.73,60199.99,Online,Utility Bill via Online,Success
+652,ABL-10015,2023-09-16,Credit,Cash Withdrawal,43696.38,103896.37,Online,Cash Withdrawal via Online,Success
+653,ABL-10015,2021-04-30,Credit,Investment,47853.19,151749.56,Branch,Investment via Branch,Success
+654,ABL-10015,2024-05-08,Debit,Investment,2366.86,149382.7,ATM,Investment via ATM,Failed
+655,ABL-10015,2024-01-19,Credit,Investment,46035.39,195418.09,Online,Investment via Online,Success
+656,ABL-10015,2021-05-08,Credit,Transfer,29531.52,224949.61,ATM,Transfer via ATM,Success
+657,ABL-10015,2022-06-10,Credit,Salary,41842.54,266792.15,ATM,Salary via ATM,Success
+658,ABL-10016,2020-06-04,Credit,Utility Bill,41605.68,178866.52,Branch,Utility Bill via Branch,Success
+659,ABL-10016,2018-09-29,Credit,Shopping,31586.51,210453.03,Branch,Shopping via Branch,Success
+660,ABL-10016,2019-03-05,Credit,Cash Withdrawal,22280.43,232733.46,ATM,Cash Withdrawal via ATM,Success
+661,ABL-10016,2021-02-01,Credit,Shopping,9906.41,242639.87,Mobile App,Shopping via Mobile App,Success
+662,ABL-10016,2021-08-11,Credit,Transfer,9764.3,252404.17,Branch,Transfer via Branch,Success
+663,ABL-10016,2018-02-15,Credit,Transfer,7202.45,259606.62,Mobile App,Transfer via Mobile App,Success
+664,ABL-10016,2019-04-15,Debit,Salary,6060.86,253545.76,Mobile App,Salary via Mobile App,Success
+665,ABL-10016,2018-10-03,Credit,Utility Bill,6098.57,259644.33,ATM,Utility Bill via ATM,Success
+666,ABL-10016,2018-03-09,Credit,Transfer,48508.31,308152.64,Online,Transfer via Online,Success
+667,ABL-10016,2020-08-05,Credit,Loan Payment,11493.98,319646.62,ATM,Loan Payment via ATM,Success
+668,ABL-10016,2018-09-03,Credit,Salary,38613.02,358259.64,Online,Salary via Online,Success
+669,ABL-10016,2022-08-29,Credit,Cash Withdrawal,27261.22,385520.86,POS,Cash Withdrawal via POS,Success
+670,ABL-10016,2022-10-04,Credit,Cash Withdrawal,22689.84,408210.7,POS,Cash Withdrawal via POS,Success
+671,ABL-10016,2021-08-25,Debit,Transfer,13296.35,394914.35,Online,Transfer via Online,Pending
+672,ABL-10016,2019-05-14,Debit,Shopping,8663.56,386250.79,Mobile App,Shopping via Mobile App,Success
+673,ABL-10016,2018-03-12,Credit,Utility Bill,7598.22,393849.01,ATM,Utility Bill via ATM,Success
+674,ABL-10016,2019-06-04,Debit,Utility Bill,38069.03,355779.98,ATM,Utility Bill via ATM,Success
+675,ABL-10016,2021-12-18,Debit,Shopping,43434.16,312345.82,ATM,Shopping via ATM,Success
+676,ABL-10016,2021-02-22,Credit,Transfer,49172.01,361517.83,ATM,Transfer via ATM,Success
+677,ABL-10016,2018-04-06,Credit,Cash Withdrawal,8463.85,369981.68,Online,Cash Withdrawal via Online,Success
+678,ABL-10016,2022-04-08,Credit,Utility Bill,42516.83,412498.51,ATM,Utility Bill via ATM,Success
+679,ABL-10016,2022-03-08,Debit,Loan Payment,17961.45,394537.06,Branch,Loan Payment via Branch,Success
+680,ABL-10016,2019-08-01,Debit,Investment,18825.63,375711.43,POS,Investment via POS,Success
+681,ABL-10016,2018-11-11,Debit,Cash Withdrawal,4874.66,370836.77,Mobile App,Cash Withdrawal via Mobile App,Success
+682,ABL-10016,2022-06-20,Debit,Investment,19903.97,350932.8,Branch,Investment via Branch,Success
+683,ABL-10016,2021-06-02,Debit,Shopping,49986.48,300946.32,Online,Shopping via Online,Success
+684,ABL-10016,2018-06-10,Debit,Loan Payment,18801.46,282144.86,Branch,Loan Payment via Branch,Success
+685,ABL-10016,2022-10-05,Credit,Insurance,13086.45,295231.31,Online,Insurance via Online,Success
+686,ABL-10016,2021-12-09,Credit,Shopping,32446.6,327677.91,POS,Shopping via POS,Success
+687,ABL-10016,2021-02-08,Debit,Salary,29861.83,297816.08,POS,Salary via POS,Success
+688,ABL-10016,2018-06-14,Credit,Cash Withdrawal,49739.63,347555.71,Mobile App,Cash Withdrawal via Mobile App,Failed
+689,ABL-10016,2020-05-01,Debit,Loan Payment,16136.81,331418.9,ATM,Loan Payment via ATM,Success
+690,ABL-10016,2022-05-22,Debit,Utility Bill,27824.4,303594.5,Mobile App,Utility Bill via Mobile App,Success
+691,ABL-10016,2020-09-17,Debit,Cash Withdrawal,35413.99,268180.51,Branch,Cash Withdrawal via Branch,Success
+692,ABL-10016,2021-01-15,Credit,Transfer,48138.98,316319.49,POS,Transfer via POS,Success
+693,ABL-10016,2022-12-22,Debit,Transfer,15457.53,300861.96,POS,Transfer via POS,Success
+694,ABL-10016,2019-12-02,Debit,Transfer,9059.08,291802.88,POS,Transfer via POS,Success
+695,ABL-10016,2022-06-02,Credit,Shopping,44051.39,335854.27,ATM,Shopping via ATM,Success
+696,ABL-10016,2019-09-30,Credit,Transfer,46127.13,381981.4,POS,Transfer via POS,Success
+697,ABL-10016,2020-10-04,Debit,Loan Payment,15900.0,366081.4,ATM,Loan Payment via ATM,Success
+698,ABL-10016,2020-07-20,Credit,Salary,31454.46,397535.86,Mobile App,Salary via Mobile App,Success
+699,ABL-10016,2021-07-01,Debit,Investment,9204.94,388330.92,ATM,Investment via ATM,Success
+700,ABL-10016,2018-04-17,Debit,Investment,11270.26,377060.66,ATM,Investment via ATM,Success
+701,ABL-10016,2021-07-29,Debit,Investment,39569.22,337491.44,Mobile App,Investment via Mobile App,Success
+702,ABL-10016,2018-02-25,Debit,Utility Bill,29564.41,307927.03,Online,Utility Bill via Online,Success
+703,ABL-10016,2019-07-01,Credit,Shopping,638.69,308565.72,Branch,Shopping via Branch,Success
+704,ABL-10016,2020-01-06,Credit,Salary,26766.26,335331.98,Branch,Salary via Branch,Success
+705,ABL-10016,2022-06-16,Credit,Salary,15309.62,350641.6,Online,Salary via Online,Success
+706,ABL-10016,2021-03-18,Debit,Loan Payment,6337.8,344303.8,Online,Loan Payment via Online,Success
+707,ABL-10017,2022-03-23,Debit,Insurance,5946.4,0.0,ATM,Insurance via ATM,Success
+708,ABL-10017,2022-11-04,Debit,Cash Withdrawal,1877.55,0.0,Branch,Cash Withdrawal via Branch,Success
+709,ABL-10017,2024-04-24,Credit,Utility Bill,33828.01,33828.01,Online,Utility Bill via Online,Success
+710,ABL-10017,2023-01-27,Debit,Cash Withdrawal,34581.27,0.0,Branch,Cash Withdrawal via Branch,Failed
+711,ABL-10017,2022-09-24,Credit,Cash Withdrawal,13841.6,13841.6,ATM,Cash Withdrawal via ATM,Success
+712,ABL-10017,2019-11-03,Credit,Shopping,8784.99,22626.59,Branch,Shopping via Branch,Success
+713,ABL-10017,2020-07-03,Credit,Cash Withdrawal,38461.35,61087.94,ATM,Cash Withdrawal via ATM,Success
+714,ABL-10017,2023-03-22,Credit,Insurance,11375.05,72462.99,ATM,Insurance via ATM,Failed
+715,ABL-10017,2022-07-07,Debit,Salary,16516.11,55946.88,Mobile App,Salary via Mobile App,Success
+716,ABL-10017,2019-12-23,Debit,Salary,38348.47,17598.41,Branch,Salary via Branch,Success
+717,ABL-10017,2020-06-21,Credit,Transfer,23297.02,40895.43,Online,Transfer via Online,Success
+718,ABL-10017,2020-12-02,Credit,Salary,24285.8,65181.23,Online,Salary via Online,Success
+719,ABL-10017,2022-01-11,Debit,Salary,36538.94,28642.29,POS,Salary via POS,Success
+720,ABL-10017,2022-01-16,Debit,Loan Payment,47926.15,0.0,Branch,Loan Payment via Branch,Success
+721,ABL-10017,2021-04-12,Credit,Transfer,8711.58,8711.58,Branch,Transfer via Branch,Success
+722,ABL-10017,2024-01-17,Credit,Utility Bill,841.02,9552.6,Mobile App,Utility Bill via Mobile App,Success
+723,ABL-10017,2023-10-11,Debit,Cash Withdrawal,17684.63,0.0,ATM,Cash Withdrawal via ATM,Success
+724,ABL-10017,2023-08-11,Credit,Cash Withdrawal,48522.64,48522.64,POS,Cash Withdrawal via POS,Success
+725,ABL-10017,2022-05-05,Debit,Salary,2695.33,45827.31,POS,Salary via POS,Success
+726,ABL-10017,2021-08-18,Debit,Salary,1977.48,43849.83,Mobile App,Salary via Mobile App,Success
+727,ABL-10017,2020-11-21,Credit,Transfer,11970.78,55820.61,ATM,Transfer via ATM,Success
+728,ABL-10017,2020-01-10,Credit,Utility Bill,26662.61,82483.22,Branch,Utility Bill via Branch,Success
+729,ABL-10017,2023-01-17,Credit,Salary,40211.83,122695.05,POS,Salary via POS,Failed
+730,ABL-10017,2019-08-14,Credit,Cash Withdrawal,1854.17,124549.22,Branch,Cash Withdrawal via Branch,Success
+731,ABL-10017,2024-04-15,Credit,Loan Payment,26780.7,151329.92,Mobile App,Loan Payment via Mobile App,Success
+732,ABL-10017,2020-07-14,Debit,Loan Payment,26144.31,125185.61,Mobile App,Loan Payment via Mobile App,Success
+733,ABL-10017,2019-11-08,Debit,Loan Payment,23320.52,101865.09,Branch,Loan Payment via Branch,Success
+734,ABL-10017,2022-05-20,Credit,Investment,11564.68,113429.77,POS,Investment via POS,Success
+735,ABL-10017,2022-03-25,Credit,Investment,5752.51,119182.28,Branch,Investment via Branch,Success
+736,ABL-10017,2020-04-14,Debit,Shopping,9158.36,110023.92,POS,Shopping via POS,Failed
+737,ABL-10017,2020-05-19,Credit,Shopping,13747.82,123771.74,POS,Shopping via POS,Success
+738,ABL-10017,2022-01-10,Debit,Insurance,16019.21,107752.53,Mobile App,Insurance via Mobile App,Success
+739,ABL-10017,2021-12-01,Debit,Utility Bill,5879.82,101872.71,Mobile App,Utility Bill via Mobile App,Success
+740,ABL-10017,2020-08-15,Debit,Cash Withdrawal,23506.55,78366.16,ATM,Cash Withdrawal via ATM,Success
+741,ABL-10017,2022-06-11,Credit,Transfer,8001.5,86367.66,Mobile App,Transfer via Mobile App,Success
+742,ABL-10017,2022-12-30,Credit,Insurance,26370.64,112738.3,Online,Insurance via Online,Success
+743,ABL-10017,2022-07-01,Debit,Cash Withdrawal,46413.93,66324.37,POS,Cash Withdrawal via POS,Success
+744,ABL-10017,2019-05-31,Credit,Insurance,46168.24,112492.61,Branch,Insurance via Branch,Success
+745,ABL-10017,2020-07-14,Credit,Salary,10340.2,122832.81,Mobile App,Salary via Mobile App,Success
+746,ABL-10017,2020-06-04,Debit,Utility Bill,22392.71,100440.1,Branch,Utility Bill via Branch,Success
+747,ABL-10017,2021-10-27,Debit,Investment,22336.73,78103.37,Mobile App,Investment via Mobile App,Success
+748,ABL-10017,2019-08-22,Credit,Cash Withdrawal,5441.26,83544.63,Mobile App,Cash Withdrawal via Mobile App,Success
+749,ABL-10017,2020-07-20,Debit,Insurance,17314.28,66230.35,ATM,Insurance via ATM,Success
+750,ABL-10017,2022-12-27,Debit,Utility Bill,10042.14,56188.21,Online,Utility Bill via Online,Failed
+751,ABL-10018,2027-02-10,Debit,Transfer,3814.62,141014.73,Online,Transfer via Online,Success
+752,ABL-10018,2026-01-13,Debit,Insurance,44203.48,96811.25,POS,Insurance via POS,Success
+753,ABL-10018,2022-06-21,Credit,Investment,26896.63,123707.88,POS,Investment via POS,Failed
+754,ABL-10018,2024-08-20,Credit,Shopping,40623.3,164331.18,POS,Shopping via POS,Success
+755,ABL-10018,2023-10-14,Debit,Utility Bill,36665.0,127666.18,ATM,Utility Bill via ATM,Success
+756,ABL-10018,2023-10-16,Credit,Investment,2509.46,130175.64,Branch,Investment via Branch,Success
+757,ABL-10018,2022-10-11,Credit,Shopping,38134.68,168310.32,Mobile App,Shopping via Mobile App,Success
+758,ABL-10018,2026-04-15,Debit,Insurance,36371.63,131938.69,ATM,Insurance via ATM,Success
+759,ABL-10018,2024-04-06,Credit,Cash Withdrawal,45113.44,177052.13,Mobile App,Cash Withdrawal via Mobile App,Success
+760,ABL-10018,2027-04-21,Debit,Loan Payment,6246.42,170805.71,POS,Loan Payment via POS,Success
+761,ABL-10018,2025-07-14,Debit,Cash Withdrawal,47635.78,123169.93,Mobile App,Cash Withdrawal via Mobile App,Pending
+762,ABL-10018,2024-07-07,Debit,Transfer,49134.49,74035.44,ATM,Transfer via ATM,Success
+763,ABL-10018,2022-11-05,Credit,Utility Bill,25403.21,99438.65,Branch,Utility Bill via Branch,Success
+764,ABL-10018,2024-06-26,Debit,Investment,48276.46,51162.19,Online,Investment via Online,Success
+765,ABL-10018,2023-10-28,Debit,Shopping,12093.79,39068.4,Branch,Shopping via Branch,Success
+766,ABL-10018,2026-07-06,Credit,Salary,45846.55,84914.95,Mobile App,Salary via Mobile App,Pending
+767,ABL-10018,2026-10-15,Credit,Loan Payment,1784.46,86699.41,ATM,Loan Payment via ATM,Success
+768,ABL-10018,2024-09-01,Credit,Investment,23049.56,109748.97,Branch,Investment via Branch,Success
+769,ABL-10018,2024-01-08,Debit,Transfer,39723.44,70025.53,Branch,Transfer via Branch,Success
+770,ABL-10018,2027-05-01,Credit,Shopping,31035.93,101061.46,Branch,Shopping via Branch,Success
+771,ABL-10018,2025-08-27,Credit,Cash Withdrawal,18190.04,119251.5,Branch,Cash Withdrawal via Branch,Success
+772,ABL-10018,2024-06-12,Debit,Salary,34682.18,84569.32,Online,Salary via Online,Pending
+773,ABL-10018,2026-10-12,Debit,Cash Withdrawal,46827.53,37741.79,POS,Cash Withdrawal via POS,Success
+774,ABL-10018,2025-04-24,Credit,Cash Withdrawal,46130.95,83872.74,Branch,Cash Withdrawal via Branch,Success
+775,ABL-10018,2025-04-26,Credit,Utility Bill,48572.87,132445.61,Online,Utility Bill via Online,Success
+776,ABL-10018,2025-10-16,Debit,Transfer,36421.83,96023.78,Branch,Transfer via Branch,Success
+777,ABL-10018,2023-11-30,Debit,Shopping,24894.02,71129.76,ATM,Shopping via ATM,Success
+778,ABL-10018,2026-03-21,Debit,Utility Bill,2394.33,68735.43,POS,Utility Bill via POS,Success
+779,ABL-10018,2022-11-22,Debit,Loan Payment,13188.74,55546.69,Mobile App,Loan Payment via Mobile App,Success
+780,ABL-10018,2025-06-24,Credit,Salary,32660.23,88206.92,Branch,Salary via Branch,Success
+781,ABL-10018,2026-04-15,Debit,Transfer,28359.46,59847.46,Mobile App,Transfer via Mobile App,Success
+782,ABL-10018,2023-03-22,Debit,Utility Bill,29975.45,29872.01,POS,Utility Bill via POS,Pending
+783,ABL-10018,2023-06-17,Credit,Cash Withdrawal,3132.5,33004.51,Branch,Cash Withdrawal via Branch,Success
+784,ABL-10018,2025-07-02,Credit,Salary,8334.41,41338.92,Online,Salary via Online,Success
+785,ABL-10018,2024-09-05,Debit,Loan Payment,17555.57,23783.35,POS,Loan Payment via POS,Success
+786,ABL-10018,2023-02-10,Debit,Utility Bill,41935.0,0.0,POS,Utility Bill via POS,Success
+787,ABL-10018,2027-01-05,Debit,Loan Payment,45103.97,0.0,Mobile App,Loan Payment via Mobile App,Success
+788,ABL-10018,2024-05-11,Credit,Shopping,12878.07,12878.07,ATM,Shopping via ATM,Success
+789,ABL-10018,2022-10-21,Credit,Salary,27999.85,40877.92,POS,Salary via POS,Success
+790,ABL-10018,2025-12-04,Debit,Cash Withdrawal,8840.09,32037.83,POS,Cash Withdrawal via POS,Success
+791,ABL-10018,2026-03-21,Debit,Shopping,25402.29,6635.54,Online,Shopping via Online,Failed
+792,ABL-10018,2025-04-08,Credit,Insurance,6230.85,12866.39,Mobile App,Insurance via Mobile App,Success
+793,ABL-10018,2025-08-07,Credit,Loan Payment,5041.06,17907.45,Mobile App,Loan Payment via Mobile App,Success
+794,ABL-10018,2023-01-27,Debit,Salary,39139.81,0.0,Online,Salary via Online,Success
+795,ABL-10018,2024-08-29,Debit,Insurance,14503.84,0.0,POS,Insurance via POS,Success
+796,ABL-10018,2023-08-12,Credit,Loan Payment,42761.17,42761.17,Branch,Loan Payment via Branch,Success
+797,ABL-10018,2023-06-02,Credit,Insurance,23286.96,66048.13,Branch,Insurance via Branch,Failed
+798,ABL-10018,2025-09-05,Credit,Cash Withdrawal,44781.26,110829.39,ATM,Cash Withdrawal via ATM,Success
+799,ABL-10018,2024-01-13,Debit,Salary,40366.44,70462.95,Mobile App,Salary via Mobile App,Success
+800,ABL-10018,2025-11-28,Debit,Investment,38457.66,32005.29,Online,Investment via Online,Success
+801,ABL-10018,2025-09-25,Credit,Insurance,30451.41,62456.7,Branch,Insurance via Branch,Success
+802,ABL-10018,2024-06-03,Credit,Insurance,42156.94,104613.64,Branch,Insurance via Branch,Success
+803,ABL-10018,2027-01-28,Credit,Cash Withdrawal,11588.07,116201.71,Mobile App,Cash Withdrawal via Mobile App,Pending
+804,ABL-10018,2026-11-13,Debit,Insurance,12863.04,103338.67,Mobile App,Insurance via Mobile App,Success
+805,ABL-10018,2022-11-21,Debit,Salary,13819.82,89518.85,ATM,Salary via ATM,Success
+806,ABL-10018,2024-10-21,Debit,Investment,48278.76,41240.09,Online,Investment via Online,Success
+807,ABL-10018,2023-06-27,Credit,Utility Bill,11391.87,52631.96,Online,Utility Bill via Online,Success
+808,ABL-10019,2022-05-17,Credit,Salary,44744.23,433536.23,ATM,Salary via ATM,Success
+809,ABL-10019,2025-10-22,Credit,Transfer,28140.5,461676.73,ATM,Transfer via ATM,Success
+810,ABL-10019,2025-07-10,Credit,Investment,10697.03,472373.76,ATM,Investment via ATM,Success
+811,ABL-10019,2022-01-07,Credit,Investment,10333.33,482707.09,POS,Investment via POS,Success
+812,ABL-10019,2023-10-23,Debit,Shopping,19971.69,462735.4,Branch,Shopping via Branch,Success
+813,ABL-10019,2021-10-11,Credit,Insurance,20408.98,483144.38,Online,Insurance via Online,Success
+814,ABL-10019,2024-12-06,Debit,Salary,13385.79,469758.59,Online,Salary via Online,Success
+815,ABL-10019,2024-11-19,Debit,Utility Bill,19655.05,450103.54,Branch,Utility Bill via Branch,Success
+816,ABL-10019,2025-04-26,Debit,Utility Bill,45430.32,404673.22,ATM,Utility Bill via ATM,Success
+817,ABL-10019,2024-07-12,Credit,Investment,886.82,405560.04,ATM,Investment via ATM,Success
+818,ABL-10019,2024-03-07,Debit,Insurance,3353.23,402206.81,ATM,Insurance via ATM,Success
+819,ABL-10019,2022-12-28,Credit,Shopping,45829.22,448036.03,POS,Shopping via POS,Success
+820,ABL-10019,2021-03-10,Credit,Salary,20007.56,468043.59,ATM,Salary via ATM,Success
+821,ABL-10019,2025-01-15,Credit,Insurance,48321.2,516364.79,ATM,Insurance via ATM,Success
+822,ABL-10019,2025-08-17,Debit,Loan Payment,7074.1,509290.69,Online,Loan Payment via Online,Success
+823,ABL-10019,2025-01-07,Credit,Loan Payment,4789.06,514079.75,Branch,Loan Payment via Branch,Success
+824,ABL-10019,2025-06-03,Credit,Shopping,14837.46,528917.21,Online,Shopping via Online,Success
+825,ABL-10019,2024-11-01,Credit,Salary,36228.85,565146.06,Branch,Salary via Branch,Success
+826,ABL-10019,2025-08-18,Credit,Cash Withdrawal,12765.47,577911.53,POS,Cash Withdrawal via POS,Success
+827,ABL-10019,2025-11-05,Credit,Cash Withdrawal,38202.41,616113.94,ATM,Cash Withdrawal via ATM,Success
+828,ABL-10019,2021-07-28,Credit,Utility Bill,14975.88,631089.82,Online,Utility Bill via Online,Pending
+829,ABL-10019,2021-06-25,Debit,Utility Bill,13298.6,617791.22,Branch,Utility Bill via Branch,Success
+830,ABL-10019,2023-03-23,Credit,Utility Bill,24958.53,642749.75,POS,Utility Bill via POS,Success
+831,ABL-10019,2022-03-09,Debit,Shopping,45767.45,596982.3,ATM,Shopping via ATM,Failed
+832,ABL-10019,2025-05-02,Debit,Transfer,34318.05,562664.25,Mobile App,Transfer via Mobile App,Success
+833,ABL-10019,2026-01-10,Credit,Investment,32195.78,594860.03,ATM,Investment via ATM,Failed
+834,ABL-10019,2022-12-24,Debit,Salary,6179.07,588680.96,ATM,Salary via ATM,Success
+835,ABL-10019,2025-11-08,Debit,Salary,16511.86,572169.1,ATM,Salary via ATM,Success
+836,ABL-10019,2022-07-27,Debit,Utility Bill,7911.82,564257.28,Online,Utility Bill via Online,Success
+837,ABL-10019,2024-12-06,Debit,Insurance,28726.74,535530.54,Branch,Insurance via Branch,Success
+838,ABL-10019,2025-12-31,Credit,Transfer,32592.45,568122.99,Online,Transfer via Online,Success
+839,ABL-10019,2023-08-05,Debit,Insurance,37366.65,530756.34,Branch,Insurance via Branch,Success
+840,ABL-10019,2022-02-09,Debit,Insurance,36794.81,493961.53,POS,Insurance via POS,Success
+841,ABL-10019,2026-01-13,Debit,Shopping,42168.9,451792.63,Mobile App,Shopping via Mobile App,Success
+842,ABL-10019,2023-08-02,Credit,Utility Bill,21039.46,472832.09,ATM,Utility Bill via ATM,Success
+843,ABL-10019,2021-07-25,Credit,Salary,17198.33,490030.42,POS,Salary via POS,Success
+844,ABL-10019,2024-01-07,Credit,Transfer,24452.33,514482.75,Mobile App,Transfer via Mobile App,Success
+845,ABL-10019,2025-01-20,Credit,Utility Bill,33967.14,548449.89,ATM,Utility Bill via ATM,Success
+846,ABL-10019,2022-11-11,Debit,Investment,17607.38,530842.51,ATM,Investment via ATM,Success
+847,ABL-10019,2023-05-15,Debit,Insurance,49786.62,481055.89,Online,Insurance via Online,Success
+848,ABL-10019,2021-12-04,Credit,Cash Withdrawal,31690.24,512746.13,ATM,Cash Withdrawal via ATM,Success
+849,ABL-10019,2023-09-11,Debit,Utility Bill,37758.15,474987.98,Mobile App,Utility Bill via Mobile App,Success
+850,ABL-10019,2024-09-25,Credit,Cash Withdrawal,9429.0,484416.98,ATM,Cash Withdrawal via ATM,Success
+851,ABL-10019,2025-02-21,Credit,Salary,17275.48,501692.46,Online,Salary via Online,Success
+852,ABL-10019,2024-12-17,Credit,Utility Bill,11063.4,512755.86,Online,Utility Bill via Online,Success
+853,ABL-10019,2025-08-19,Debit,Transfer,30688.84,482067.02,Online,Transfer via Online,Success
+854,ABL-10019,2025-05-10,Debit,Transfer,30588.82,451478.2,ATM,Transfer via ATM,Success
+855,ABL-10019,2024-08-10,Debit,Shopping,36747.36,414730.84,Mobile App,Shopping via Mobile App,Success
+856,ABL-10019,2022-11-15,Debit,Shopping,16893.17,397837.67,POS,Shopping via POS,Success
+857,ABL-10019,2023-10-21,Debit,Utility Bill,21929.27,375908.4,Mobile App,Utility Bill via Mobile App,Success
+858,ABL-10019,2023-07-25,Credit,Cash Withdrawal,3821.28,379729.68,ATM,Cash Withdrawal via ATM,Success
+859,ABL-10019,2021-04-07,Debit,Cash Withdrawal,9138.47,370591.21,Branch,Cash Withdrawal via Branch,Success
+860,ABL-10019,2023-03-27,Debit,Shopping,31010.05,339581.16,Branch,Shopping via Branch,Success
+861,ABL-10019,2022-09-10,Credit,Transfer,14814.24,354395.4,Online,Transfer via Online,Success
+862,ABL-10019,2024-02-14,Credit,Shopping,13282.85,367678.25,Online,Shopping via Online,Success
